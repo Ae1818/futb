@@ -43,4 +43,5 @@ http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/30f439_be718965db074a8dbffa1d7669a5e9ab~mv2.png/v1/fill/w_260,h_246,al_c,q_85,usm_1.20_1.00_0.01,enc_auto/30f439_be718965db074a8dbffa1d7669a5e9ab~mv2.png" group-title="EL SALVADOR", CANAL 65
 https://panel.streamingtv-mediacp.online:1936/tv65/tv65/chunklist_w17059926.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/200px-Tigo_Sports_logo.svg.png" group-title="EL SALVADOR",TIGO SPORTS SV 
+https://channel01.tigosports.com.sv/out/v1/d740e3278f0d473a92111808b6d5d123/index.mpd
