@@ -30,7 +30,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/p
 https://streaming.grupocsanetwork.net:1936/canal11/canal11/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/150px-Canal_12_El_Salvador_2018.png" group-title="EL SALVADOR",CANAL 12
-https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
+http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn7yi1CksUKB25wQINEigJ3_V-ot6wj2Nl4k00LoaP&s" group-title="EL SALVADOR",TABER TV
 https://5ca9af4645e15.streamlock.net:443/tabertv/smil:tabertv.smil/chunklist_w1491631889_b1428000_DVR_sleng.m3u8
@@ -45,3 +45,4 @@ https://panel.streamingtv-mediacp.online:1936/tv65/tv65/chunklist_w17059926.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/200px-Tigo_Sports_logo.svg.png" group-title="EL SALVADOR",TIGO SPORTS SV 
 https://channel01.tigosports.com.sv/out/v1/d740e3278f0d473a92111808b6d5d123/index.mpd
+
