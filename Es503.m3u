@@ -21,7 +21,7 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8?h
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8?hdnts=exp=1656268920~acl=/*~hmac=8fda93655adbfe1025b406ea7775f2e8f576dd0b7b3984173d4e4110b986a18a
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/640px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="CENTROAMERICA",CANAL 10 ES
-https://lah.thelabstreams.xyz/10x5.php
+http://168.227.22.18:1935/live/mobile-037/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/640px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="EL SALVADOR",CANAL 10
 https://lah.thelabstreams.xyz/10x5.php
