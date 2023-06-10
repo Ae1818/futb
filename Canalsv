@@ -9,7 +9,7 @@ http://dev.movilesypc.com/hls/canal4.m3u8
 https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-audio_0=64000-video=2000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="EL SALVADOR",CANAL 4 HD
-http://181.189.243.198:8000/play/a06f/index.m3u8
+http://138.59.177.34:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TCS_35_2017.png/320px-TCS_35_2017.png" group-title="EL SALVADOR",TCS+
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
@@ -22,7 +22,7 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8?h
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canal-21.png/320px-Canal-21.png" group-title="EL SALVADOR",CANAL 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8?hdnts=exp=1656268920~acl=/*~hmac=8fda93655adbfe1025b406ea7775f2e8f576dd0b7b3984173d4e4110b986a18a
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/640px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="CENTROAMERICA",CANAL 10 ES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/640px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="EL SALVADOR",CANAL 10
 https://lah.thelabstreams.xyz/10x5.php
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="EL SALVADOR",WOW TV
@@ -40,7 +40,8 @@ http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn7yi1CksUKB25wQINEigJ3_V-ot6wj2Nl4k00LoaP&s" group-title="EL SALVADOR",TABER TV
 https://5ca9af4645e15.streamlock.net:443/tabertv/smil:tabertv.smil/chunklist_w1491631889_b1428000_DVR_sleng.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://www.televisionfamiliar.com/wp-content/uploads/2022/08/logo_header.png" group-title="EL SALVADOR", TV FAMILIAR
+https://www.yupi.live:1936/tvftv/tvftv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png" group-title="EL SALVADOR", TVO
 http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
@@ -51,3 +52,5 @@ https://panel.streamingtv-mediacp.online:1936/tv65/tv65/chunklist_w17059926.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/200px-Tigo_Sports_logo.svg.png" group-title="EL SALVADOR",TIGO SPORTS SV 
 https://channel01.tigosports.com.sv/out/v1/d740e3278f0d473a92111808b6d5d123/index.mpd
 
+#EXTINF:-1 tvg-id="SV | Canal 57 Apopa TV" tvg-name="SV | Canal 57 Apopa TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/sv-canal-57-6594-300x225.jpg" group-title="EL SALVADOR", 668 | Canal 57 Apopa TV || EL SALVADOR
+https://streaming.grupocsanetwork.net:3424/canal57/canal57/playlist.m3u8
