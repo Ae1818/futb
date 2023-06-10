@@ -1414,7 +1414,7 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="EL SALVADOR", CANAL 4 HD 
-http://181.189.243.198:8000/play/a06f/index.m3u8
+http://138.59.177.34:8000/play/a012/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_5_HN_logo_2019.png/300px-Canal_5_HN_logo_2019.png" group-title="CENTROAMERICA", CANAL 5 HN
 http://45.182.21.251:33334/play/a07m/index.m3u8
