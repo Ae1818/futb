@@ -54,3 +54,9 @@ https://channel01.tigosports.com.sv/out/v1/d740e3278f0d473a92111808b6d5d123/inde
 
 #EXTINF:-1 tvg-id="SV | Canal 57 Apopa TV" tvg-name="SV | Canal 57 Apopa TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/sv-canal-57-6594-300x225.jpg" group-title="EL SALVADOR", 668 | Canal 57 Apopa TV || EL SALVADOR
 https://streaming.grupocsanetwork.net:3424/canal57/canal57/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/250px-Russia-today-logo.svg.png" group-title="NOTICIAS",RT EN ESPAÑOL
+https://rt-esp.rttv.com:443/live/rtesp/playlist_800Kb.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1599px-Deutsche_Welle_symbol_2012.svg.png" group-title="EL SALVADOR",DW NOTICIAS 
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
