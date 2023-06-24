@@ -1,0 +1,307 @@
+#EXTM3U url-tvg="https://github.com/facalfer/TELE/blob/master/guia.xml"
+#EXTINF:-1  group-title="SD", CANAL 2
+https://telecorporacion-es.cdn.vustreams.com:443/live/af9473b9-191c-456a-b714-57eace94e2fe/live.isml/live-audio_0=64000-video=2000000.m3u8
+
+#EXTINF:-1  group-title="SD", CANAL 4
+http://181.189.243.198:8000/play/a06f/index.m3u8
+
+#EXTINF:-1  group-title="SD", CANAL 6
+https://telecorporacion.cdn.vustreams.com:443/live/a242095a-c49d-4263-b9ae-5958f5e0c9a1/live.isml/live-audio_0=64000-video=2000000.m3u8
+
+#EXTINF:-1  group-title="SD", TCS +
+https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
+
+#EXTINF:-1  group-title="SD", WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+
+#EXTINF:-1  group-title="SD", TVU
+http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TVES
+http://168.227.22.18:1935/live/mobile-037/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CANAL 12 SV
+http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CANAL 19 
+https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8?hdnts=exp=1656267791~acl=/*~hmac=e8c4066bd68bc6f8c7d71624209307e886598841fbbf4c57ec264a271d4dfd1a
+
+#EXTINF:-1  group-title="SD", CANAL 21 
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8?hdnts=exp=1656268920~acl=/*~hmac=8fda93655adbfe1025b406ea7775f2e8f576dd0b7b3984173d4e4110b986a18a
+
+#EXTINF:-1  group-title="SD", TVO
+http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TRV ES
+http://168.227.22.18:1935/live/mobile-150/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", COMEDY CENTRAL
+http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+
+#EXTINF:-1  group-title="SD",  TOONCAST 
+http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", SPACE
+http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", PARAMOUNT 
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TYC SPORTS
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", DISCOVERY
+http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ANTENA 3
+http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", RT En Español
+http://168.227.22.18:1935/live/mobile-009/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", DW NOTICIAS
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
+
+#EXTINF:-1  group-title="SD", FOX SPORTS MX
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", NICK JR
+http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", EWTN
+http://168.227.22.18:1935/live/mobile-012/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", HOLA TV
+http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", PASIONES 
+http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CINE CANAL
+http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", MULTIPREMIER
+http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", STUDIO UNIVERSAL 
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CARTOON NETWORK 
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", WB TV
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", FOX SPORTS 2 mx
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ESPN MX
+http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ESPN 2 mx
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", SONY CHANEL 
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", NICK MUSIC
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TELEMUNDO
+http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TRU TV
+http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", MC
+http://168.227.22.18:1935/live/mobile-044/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TNT Series
+http://168.227.22.18:1935/live/mobile-046/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", AXN
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CARTOONITO
+http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", STAR CHANNEL 
+http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", HISTORY
+http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", SYFY
+http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", BABY TV
+http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CNN
+http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", MTV
+http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", UNIVERSAL TV
+http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", UNIVERSO
+http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ENI
+http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ANIMAL PLANET
+http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ZOO MOO
+http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TNT
+http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", AMC
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CANAL 3 GT
+http://168.227.22.18:1935/live/mobile-114/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", NAT GEO
+http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", HBO
+http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", HBO 2
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", HBO FAMILY 
+http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", DISCOVERY ID
+http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", BITME
+http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", KANAL D
+http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", DREAMWORKS
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", FOX DEPORTES
+http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", H&H
+http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", FOX SPORTS 3 mx
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", DISCOVERY TURBO
+http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", NICK
+http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TELESUR
+http://168.227.22.18:1935/live/mobile-116/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CNN 
+http://livex.pop-app.live/s4n/poplive/ch318/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CINEMA
+http://168.227.22.18:1935/live/mobile-120/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ESPN 3 mx
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", FOX
+http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TVE
+http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TN23 GT
+http://168.227.22.18:1935/live/mobile-130/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CANAL 7 GT
+http://168.227.22.18:1935/live/mobile-131/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CANAL 11 GT
+http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", MODO CINE
+http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", GOLDEN
+http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", GOLDEN PLUS
+http://livex.pop-app.live/s4n/poplive/ch511/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", FILM & ART
+http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", CCI HD
+http://168.227.22.18:1935/live/mobile-144/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TNT SPORTS CHI
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ENLACE
+http://168.227.22.18:1935/live/mobile-145/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", HINSPAN TV
+http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", TELEMUNDO INTER
+http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", IVC
+http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", LIFETIME
+http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", E
+http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", HISTORY 2
+http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", A&E
+http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ESPN SUR
+http://190.131.247.82:8000/play/a022
+
+#EXTINF:-1  group-title="SD", ESPN 2 SUR
+http://190.131.247.82:8000/play/a00b
+
+#EXTINF:-1  group-title="SD", ESPN 3 SUR
+http://190.131.247.82:8000/play/a00m
+
+#EXTINF:-1  group-title="SD", TUDN
+http://livex.pop-app.live/s4n/poplive/ch569/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", ESPN DEPORTES 
+http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
+
+#EXTINF:-1  group-title="SD", AZTECA 7
+https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=1&f=.m3u8
+
+#EXTINF:-1  group-title="SD", CANAL 5 MX
+https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=2&f=.m3u8
+
+#EXTINF:-1  group-title="SD", AMERICA TV PERU
+https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=2&f=.m3u8
+
+#EXTINF:-1  group-title="SD", UNIVISION
+https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=62&f=.m3u8
+
+#EXTINF:-1  group-title="SD", D PELICULA
+https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=85&f=.m3u8
+
