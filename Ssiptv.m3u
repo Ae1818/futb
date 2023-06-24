@@ -18,7 +18,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
 
 #EXTINF:-1  group-title="SD", TVES
-http://168.227.22.18:1935/live/mobile-037/playlist.m3u8
+http://138.59.177.34:8000/play/a00x/index.m3u8
 
 #EXTINF:-1  group-title="SD", CANAL 12 SV
 http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
