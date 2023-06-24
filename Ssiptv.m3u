@@ -126,7 +126,7 @@ http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
 
 #EXTINF:-1  group-title="SD", STAR CHANNEL 
-http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=220&f=.m3u8
 
 #EXTINF:-1  group-title="SD", HISTORY
 http://livex.pop-app.live/s4n/poplive/ch349/playlist.m3u8
@@ -237,7 +237,7 @@ http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
 
 #EXTINF:-1  group-title="SD", GOLDEN
-http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
+https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=202&f=.m3u8
 
 #EXTINF:-1  group-title="SD", GOLDEN PLUS
 http://livex.pop-app.live/s4n/poplive/ch511/playlist.m3u8
@@ -293,7 +293,7 @@ http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
 #EXTINF:-1  group-title="SD", AZTECA 7
 https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=1&f=.m3u8
 
-#EXTINF:-1  group-title="SD", CANAL 5 MX
+#EXTINF:-1  group-title="SD", CANAL 5
 https://s99.dr691652.repl.co/tv507/telelatinohd_bym3ukodi.php?num=204&f=.m3u8
 
 #EXTINF:-1  group-title="SD", AMERICA TV PERU
