@@ -96,7 +96,7 @@ http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
 
 #EXTINF:-1  group-title="SD", ESPN MX
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/35.ts
+http://190.61.101.9:9000/play/a03a/index.m3u8
 
 #EXTINF:-1  group-title="SD", ESPN 2 mx
 http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
