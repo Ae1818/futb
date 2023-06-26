@@ -291,7 +291,7 @@ http://190.131.247.82:8000/play/a00m
 http://livex.pop-app.live/s4n/poplive/ch569/playlist.m3u8
 
 #EXTINF:-1  group-title="SD", TUDN USA
-http://23.237.108.234/hls/USA_TUDN.m3u8|user-agent=Roku(10.10.10)
+http://168.228.194.33:48001/play/a0b9/index.m3u8
 
 #EXTINF:-1  group-title="SD", ESPN DEPORTES 
 http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
