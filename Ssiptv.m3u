@@ -224,6 +224,9 @@ http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
 #EXTINF:-1  group-title="SD", TVE
 http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
 
+#EXTINF:-1  group-title="SD", HCH
+https://ythls.onrender.com/channel/UCIs6fmAXOI1K2jgkoBdWveg.m3u8
+
 #EXTINF:-1  group-title="SD", TN23 GT
 http://168.227.22.18:1935/live/mobile-130/playlist.m3u8
 
