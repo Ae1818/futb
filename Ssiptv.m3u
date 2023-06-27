@@ -185,6 +185,9 @@ http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
 #EXTINF:-1  group-title="SD", DISCOVERY ID
 http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
 
+#EXTINF:-1  group-title="SD", Animal Planet
+http://181.78.1.217:8146/play/a0d5/index.m3u8
+
 #EXTINF:-1  group-title="SD", BITME
 http://livex.pop-app.live/s4n/poplive/ch555/playlist.m3u8
 
