@@ -155,6 +155,9 @@ http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
 #EXTINF:-1  group-title="SD", ANIMAL PLANET
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/75.ts
 
+#EXTINF:-1  group-title="SD", ANIMAL PLANET HD
+https://v3.playerlatino.live/stream/m3u8/3|user-agent=Lavf/57.71.001&referrer=https://v3.playerlatino.live
+
 #EXTINF:-1  group-title="SD", ZOO MOO
 http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
 
