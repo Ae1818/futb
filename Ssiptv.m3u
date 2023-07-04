@@ -291,7 +291,7 @@ http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 http://190.83.60.34:1414/play/a036
 
 #EXTINF:-1  group-title="SD", ESPN 2 SUR
-http://190.131.247.82:8000/play/a00b
+http://190.83.60.34:1414/play/a02c
 
 #EXTINF:-1  group-title="SD", ESPN 3 SUR
 http://190.131.247.82:8000/play/a00m
