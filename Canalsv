@@ -64,3 +64,6 @@ https://channel01.tigosports.com.sv/out/v1/d740e3278f0d473a92111808b6d5d123/inde
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/200px-Tigo_Sports_logo.svg.png" group-title="EL SALVADOR",TIGO SPORTS SV 
 http://magmas5.com:8000/live/goodserver/2C4X1EC7EW/141925.ts
+
+#EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" group-title="EL SALVADOR", TELECOSTA
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
