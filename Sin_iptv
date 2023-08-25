@@ -1,0 +1,35 @@
+{
+	"name": "ALEX - ADICT",
+    "author": "AlEx",
+    "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
+    "info": "IPTV oficial de FUTBOL-ADICTOS",
+    "telegram": "+wIBp4fXctzpjYTU0",
+    "url": "https://raw.githubusercontent.com/MoDz17/IPTV_MoDz/main/code_iptv",
+    "groups": [{
+             "name": "FUTBOL - ADICTOS",
+            "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
+            "info": "",
+            "stations": [
+
+
+{
+		"name": "LaLiga",
+		"image": "https://i.ibb.co/3NCs0m4/LaLigaEA.png",
+		"info": "",
+		"stations": 
+		[
+			{
+				"name": "Canal 1",
+				"info": "Fijo: M+ | abol-bpnl5",
+				"image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+				"url": "https://abolishstand.net/embed/bpnl5io93two",
+			   	"referer": "https://nopay.info/",
+             			"isHost": "true"
+			}, {
+				 "name": "Canal 2",
+				 "info": "Fijo: DAZN | wecazt",
+				 "image": "https://i.ibb.co/BwmS7vg/logo-channels-La-Liga.webp",
+                      		 "url" :  "https://wecazt.com/popy.php?stream=YJ8krnYwZrR",
+			  	 "referer" : "https://livetvstream.pro/",
+                 		 "isHost": "true"
+					 }
