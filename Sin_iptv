@@ -10,9 +10,32 @@
             "image": "https://i.ibb.co/PGL5P2Z/Main-pic-Logo-and-Banner.jpg",
             "info": "",
             "stations": [
-
-
-	{
+	    	{
+			"name": "@FutbolAdictosHD",
+			"info": "Twitter",
+		   	"image": "https://i.ibb.co/8MFrqt3/Twitter-logo.webp",    
+		  	"url" : "https://twitter.com/futboladictohd",
+		  	"embed": "true"
+		}, {
+			"name": "Grupo Soporte",
+			"info": "Discord",
+		   	"image": "https://i.ibb.co/rc9ds7x/jugones-pic-discord.png",    
+		  	"url" : "https://linktr.ee/futboladictoshd",
+		  	"embed": "true"
+		}, {
+			"name": "@futboladictohd",
+			"info": "Instagram",
+		   	"image": "https://i.ibb.co/xYLFH0F/Insta-logo.png",    
+		  	"url" : "https://instagram.com/futboladictohd",
+		  	"embed": "true"
+		}, {
+			"name": "              By MoDz",
+		   	"image": "https://i.ibb.co/64mjMcF/MoDz.jpg",    
+		  	"url" : ""}]
+	}, 
+	
+	{			
+	
 		"name": "LaLiga",
 		"image": "https://i.ibb.co/3NCs0m4/LaLigaEA.png",
 		"info": "",
