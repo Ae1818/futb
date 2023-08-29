@@ -1,1 +1,27 @@
+#EXTINF
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGAS EUROPEAS",LIGA ESPAÑOLA
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" group-title="LIGAS EUROPEAS",PREMIER LEAGUE
+http://190.83.60.34:1414/play/a036
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/340px-Bundesliga_logo_%282017%29.svg.png" group-title="LIGAS EUROPEAS",BUNDESLIGA
+http://168.228.194.33:48001/play/a09m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/300px-Serie_A_logo_2022.svg.png" group-title="LIGAS EUROPEAS", SERIE A
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/4321
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/300px-Ligue1_Uber_Eats_logo.png" group-title="LIGAS EUROPEAS",LIGUE 1
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/131357
+
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="Ziggo Sport Select" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/640px-MX_logo.png" group-title="LIGAS EUROPEAS", LIGA MX
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/131158
+
+#EXTINF:-1 tvg-logo="https://www.fifaratings.com/wp-content/uploads/Saudi-Professional-League.png" group-title="LIGAS EUROPEAS",LIGA ARABE
+http://magmas5.com:8000/goodserver/2C4X1EC7EW/131136
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGAS EUROPEAS", LIGA ESPAÑOLA (2)
+http://dnsplay.xyz:80/NbuuHuMf/8fLUiVaBWhugDZS/327651
+
+#EXTINF, espn
