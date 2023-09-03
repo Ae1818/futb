@@ -47,9 +47,6 @@ https://www.yupi.live:1936/tvftv/tvftv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/30f439_be718965db074a8dbffa1d7669a5e9ab~mv2.png/v1/fill/w_260,h_246,al_c,q_85,usm_1.20_1.00_0.01,enc_auto/30f439_be718965db074a8dbffa1d7669a5e9ab~mv2.png" group-title="EL SALVADOR", CANAL 65
 https://panel.streamingtv-mediacp.online:1936/tv65/tv65/chunklist_w17059926.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/200px-Tigo_Sports_logo.svg.png" group-title="EL SALVADOR",TIGO SPORTS SV 
-http://tv.dominiotv.xyz:25461/live/demonio0638/UNd8zNT6cM/169602.m3u8
-
 #EXTINF:-1 tvg-id="SV | Canal 57 Apopa TV" tvg-name="SV | Canal 57 Apopa TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/sv-canal-57-6594-300x225.jpg" group-title="EL SALVADOR", 668 | Canal 57 Apopa TV || EL SALVADOR
 https://streaming.grupocsanetwork.net:3424/canal57/canal57/playlist.m3u8
 
@@ -63,7 +60,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 https://channel01.tigosports.com.sv/out/v1/d740e3278f0d473a92111808b6d5d123/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/200px-Tigo_Sports_logo.svg.png" group-title="EL SALVADOR",TIGO SPORTS SV 
-https://1efb-190-150-170-186.ngrok-free.app/hls/stream.m3u8
+https://video.fsal1-1.fna.fbcdn.net/hvideo-cln-odn/_nc_cat-106/_nc_sr_t-4/v/rASdR5-j9endz34DO5DEF65HBSUM1fZ8X4Ka1bwIcmEw27g/_nc_ohc-4-eFQsOZX5cAX_LttsV/live-dash/dash-abr-ibr-audio/141498059022847.mpd?ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AfCiWcWsFE5FBSZ98dNxFbDFr9Yk-io9tfMguzoPsHty1g&oe=64F574C9
 
 #EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" group-title="EL SALVADOR", TELECOSTA
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
