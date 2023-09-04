@@ -98,4 +98,7 @@ http://dnsplay.xyz:80/live/NbuuHuMf/8fLUiVaBWhugDZS/34624.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/480px-Copa_Libertadores_logo.svg.png" group-title="LIGAS EUROPEAS", COPA LIBERTADORES
 http://magmas5.com:8000/live/goodserver/2C4X1EC7EW/3851.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/400px-MLS_crest_logo_RGB_gradient.svg.png" group-title="LIGAS EUROPEAS", MLS
+https://stream.dlivecdn.com/elianvoss3/1693761031/src/live.m3u8
+
 #EXTINF, espn
