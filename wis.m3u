@@ -69,7 +69,7 @@ https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" group-title="LIGAS EUROPEAS",PREMIER LEAGUE
-http://190.83.60.34:1414/play/a036
+http://190.60.36.103:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/340px-Bundesliga_logo_%282017%29.svg.png" group-title="LIGAS EUROPEAS",BUNDESLIGA
 http://168.228.194.33:48001/play/a09m/index.m3u8
