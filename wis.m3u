@@ -78,7 +78,7 @@ http://168.228.194.33:48001/play/a09m/index.m3u8
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/4321
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/300px-Ligue1_Uber_Eats_logo.png" group-title="LIGAS EUROPEAS",LIGUE 1
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/131357
+http://go.iptvhn.net:25461/live/7672/7672/217.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name="Ziggo Sport Select" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/640px-MX_logo.png" group-title="LIGAS EUROPEAS", LIGA MX
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/131158
