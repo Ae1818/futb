@@ -48,7 +48,7 @@ https://www.yupi.live:1936/tvftv/tvftv/playlist.m3u8
 https://panel.streamingtv-mediacp.online:1936/tv65/tv65/chunklist_w17059926.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/200px-Tigo_Sports_logo.svg.png" group-title="EL SALVADOR",TIGO SPORTS SV 
-https://ythls.onrender.com/channel/UCOerNRF513eB4-XKWGFhlqQ.m3u8
+https://ythls.onrender.com/channel/UCIBUf24rjTCHFXVrByWf_vg.m3u8
 
 #EXTINF:-1 tvg-id="SV | Canal 57 Apopa TV" tvg-name="SV | Canal 57 Apopa TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/sv-canal-57-6594-300x225.jpg" group-title="EL SALVADOR", 668 | Canal 57 Apopa TV || EL SALVADOR
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
