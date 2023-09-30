@@ -96,6 +96,6 @@ http://go.iptvhn.net:25461/live/7672/7672/95.m3u8
 http://magmas5.com:8000/live/goodserver/2C4X1EC7EW/3851.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/400px-MLS_crest_logo_RGB_gradient.svg.png" group-title="LIGAS EUROPEAS", MLS
-http://167.114.156.136:25461/live/INFINITV/ZX89NM22/38.m3u8
+https://elverruca22-usea.streaming.media.azure.net/0ef379da-3783-43ff-aaf3-60ba9a57f2db/output-20230930-182403-manifest.ism/manifest(format=m3u8-cmaf).m3u8
 
 #EXTINF, espn
