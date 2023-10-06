@@ -93,7 +93,7 @@ http://177.93.45.155:6143/play/a016/index.m3u8
 http://go.iptvhn.net:25461/live/7672/7672/95.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/480px-Copa_Libertadores_logo.svg.png" group-title="LIGAS EUROPEAS", COPA LIBERTADORES
-http://magmas5.com:8000/live/goodserver/2C4X1EC7EW/3851.ts
+https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/400px-MLS_crest_logo_RGB_gradient.svg.png" group-title="LIGAS EUROPEAS", MLS
 https://vhbkjn9-usea.streaming.media.azure.net/e6964bb0-8761-4353-85e4-c04651a478a5/output-20231004-190946-manifest.ism/manifest(format=m3u8-cmaf).m3u8
