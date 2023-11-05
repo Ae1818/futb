@@ -84,7 +84,7 @@ http://magmas5.com:8000/goodserver/2C4X1EC7EW/4321
 http://go.iptvhn.net:25461/live/7672/7672/217.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.us" tvg-name="Ziggo Sport Select" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MX_logo.png/640px-MX_logo.png" group-title="LIGAS EUROPEAS", LIGA MX
-http://magmas5.com:8000/goodserver/2C4X1EC7EW/131158
+http://212.102.60.231/TUDN/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fifaratings.com/wp-content/uploads/Saudi-Professional-League.png" group-title="LIGAS EUROPEAS",LIGA ARABE
 http://magmas5.com:8000/goodserver/2C4X1EC7EW/131136
@@ -97,8 +97,5 @@ http://go.iptvhn.net:25461/live/7672/7672/95.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Copa_Libertadores_logo.svg/480px-Copa_Libertadores_logo.svg.png" group-title="LIGAS EUROPEAS", COPA LIBERTADORES
 https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/400px-MLS_crest_logo_RGB_gradient.svg.png" group-title="LIGAS EUROPEAS", MLS
-https://5z2m3-usea.streaming.media.azure.net/b286b0a5-19a9-4cfb-88fe-47bbe83c5465/output-20231007-180522-manifest.ism/QualityLevels(3500000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
 
 #EXTINF, espn
