@@ -68,6 +68,9 @@ https://video.fsal2-1.fna.fbcdn.net/hvideo-cln-odn/_nc_cat-100/_nc_sr_t-4/v/rASc
 #EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" group-title="EL SALVADOR", TELECOSTA
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
+#EXTINF:-1 tvg-logo="https://canal3impresionante.com/wp-content/uploads/2020/12/LOGO-CANAL-3-con-circulo-blanco-1-768x651.png" group-title="EL SALVADOR", Canal 3
+https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist_w1711932051.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGAS EUROPEAS",LIGA ESPAÑOLA
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
