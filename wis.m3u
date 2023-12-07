@@ -65,6 +65,9 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/200px-Tigo_Sports_logo.svg.png" group-title="EL SALVADOR",TIGO SPORTS SV 
 https://128b-190-150-170-179.ngrok-free.app/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://appcmsprod.viewlift.com/7391a300-d259-11ed-9db9-6502076c33a7/images/aloud_sports-web-logo-c-1280X728.png" group-title="EL SALVADOR", ALOUD SPORTS 
+https://d2zt3uq88pr1ch.cloudfront.net/out/v1/5507b748ebda4be7b891a7d8baeeb05d/index_2.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.telecostaescuintla.com/gallery_gen/3b51c096b46472b84baedd3e6dba34ff_200x176.png" group-title="EL SALVADOR", TELECOSTA
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
