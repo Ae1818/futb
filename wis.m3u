@@ -60,7 +60,7 @@ https://rt-esp.rttv.com:443/live/rtesp/playlist_800Kb.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/200px-Tigo_Sports_logo.svg.png" group-title="EL SALVADOR",TIGO SPORTS (iphone)
-https://80e1-190-53-27-31.ngrok-free.app/hls/stream.m3u8
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/200px-Tigo_Sports_logo.svg.png" group-title="EL SALVADOR",TIGO SPORTS SV 
 https://video.fsal3-1.fna.fbcdn.net/hvideo-odn-cln/_nc_cat-102/_nc_sr_t-4/v/rAScBgrX_IfuLhunX8H1NK1-a3OyAtmar7MUjsroVZN9PyQ/_nc_ohc-DOLogGMuQeQAX-iZz-Z/live-dash/dash-abr-ibr-audio/2089635014762392.mpd?ccb=2-4&ms=m_CTPA&sc_t=1&oh=00_AfBP3vkF44Iwjk0secMAJ4MuwuSQPLUGmToTkdQAe53YMA&oe=6580EAD9
