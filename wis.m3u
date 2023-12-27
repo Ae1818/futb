@@ -232,4 +232,48 @@ http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1  group-title="SD CHANNEL", A&E
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
+
+#EXTINF:-1 group-title="Lista 34", GLITZ
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GLITZ)/index.m3u8
+
+#EXTINF:-1 group-title="Lista 34", DW ESPAÑOL
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DW)/index.m3u8
+
+#EXTINF:-1 group-title="Lista 34",DW
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DW)/index.m3u8
+
+#EXTINF:-1 group-title="Lista 34",RAI
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(RAI)/index.m3u8
+
+#EXTINF:-1 group-title="Lista 34",EWTN
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(EWTN)/index.m3u8
+
+#EXTINF:-1 group-title="Lista 34",TCM
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TCM)/index.m3u8
+
+#EXTINF:-1 group-title="Lista 34", DW AMERIKA 
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DW)/index.m3u8
+
+#EXTINF:-1 group-title="Lista 34", ENLACE 
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ENLACE)/index.m3u8
+
+#EXTINF:-1 group-title="Lista 34", 
+TELEHIT https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TELEHIT)/index.m3u8
+
+#EXTINF:-1 group-title="Lista 34", 
+EXATV https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(EXATV)/index.m3u8
+
+#EXTINF:-1 group-title="Lista 34", MTV HD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVHD)/index.m3u8
+
+#EXTINF:-1 group-title="Lista 34", MTV LIVE
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(MTVLIVEHD)/index.m3u8
+
+#EXTINF:-1 group-title="Lista 34", HTV
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(HTV)/index.m3u8
+
+#EXTINF:-1 group-title="Lista 34", FXHD
+https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(FXHD)/index.m3u8
+
+
 #EXTINF, espn
