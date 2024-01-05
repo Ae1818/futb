@@ -242,17 +242,11 @@ https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(GLI
 #EXTINF:-1 group-title="Lista 34", DW ESPAÑOL
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DW)/index.m3u8
 
-#EXTINF:-1 group-title="Lista 34",DW
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DW)/index.m3u8
-
-#EXTINF:-1 group-title="Lista 34",RAI
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(RAI)/index.m3u8
-
 #EXTINF:-1 group-title="Lista 34",EWTN
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(EWTN)/index.m3u8
 
 #EXTINF:-1 group-title="Lista 34",TCM
-https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(TCM)/index.m3u8
+http://livex.pop-app.live/s4n/poptv/TCM.Tecnobyte/playlist.m3u8
 
 #EXTINF:-1 group-title="Lista 34", DW AMERIKA 
 https://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DW)/index.m3u8
