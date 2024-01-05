@@ -358,7 +358,7 @@ http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(H2)/
 http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(DISCOVERYSCIENCEHD)/index.m3u8
 
 #EXTINF:-1 group-title="Lista 34", ESPN HD
-http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPNHD)/index.m3u8
+http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
 
 #EXTINF:-1 group-title="Lista 34", ESPN2 HD
 http://dolocallivechannelhls.clarovideo.com/Content/HLS_HLS_FK/Live/Channel(ESPN2HD)/index.m3u8
