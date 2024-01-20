@@ -245,4 +245,7 @@ http://livex.pop-app.live/s4n/poptv/TCM.Tecnobyte/playlist.m3u8
 #EXTINF:-1 group-title="Lista 34", ESPN HD
 http://livex.pop-app.live/s4n/poplive/ch319/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="Lista 34", ESPN 🇦🇷
+http://bantel.iptvperu.tv:1935/deportes_ll/ESPN_t2.stream/chunks.m3u8
+
 #EXTINF, espn
