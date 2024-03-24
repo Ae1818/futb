@@ -209,7 +209,7 @@ http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/635px-France24.png" group-title="NOTICIAS",FRANCE 24
 https://live.france24.com/hls/live/2037220/F24_ES_HI_HLS/master_5000.m3u8
 
-#EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="Lista 34", ESPN 🇦🇷
-http://bantel.iptvperu.tv:1935/deportes_ll/ESPN_t2.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="DEPORTES", ESPN 🇦🇷
+http://191.97.49.194:8000/play/a016/index.m3u8
 
 #EXTINF, espn
