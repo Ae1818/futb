@@ -83,4 +83,7 @@ http://181.78.6.106:45000/play/a01q
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="DEPORTES", LIGA ESPAÑOLA 
 http://181.78.105.146:2000/play/a08m/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/0288-199734d7ac32-76cda290f242-1000/wtw_euro.jpeg" group-title="DEPORTES",EUROCOPA
+https://stream.brics.vin/memfs/95e49196-f74e-4ec6-b911-783babe6e7d2.m3u8
+
 #EXTINF, espn
