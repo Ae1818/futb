@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://github.com/facalfer/TELE/blob/master/guia.xml"
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR",CANAL 2
-http://204.157.251.250:8000/play/a074/index.m3u8
+https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live/live-audio_0=64000-video=2000000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="EL SALVADOR",CANAL 4
 http://go.iptvhn.net:25461/live/7682/7682/13144.m3u8
