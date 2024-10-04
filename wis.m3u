@@ -86,4 +86,6 @@ https://f.gmsiptv.com/memfs/b7a1ba30-62be-4c27-b974-9b16b73ccd57.m3u8
 #EXTINF:-1 tvg-id="TVX.sv" tvg-logo="https://i.imgur.com/ZSktjGB.png" group-title="EL SALVADOR", El Camino TV
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/300px-Serie_A_logo_2022.svg.png" group-title="DEPORTES", SERIE A
+
 #EXTINF, espn
