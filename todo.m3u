@@ -101,6 +101,9 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/ABCTV/EXPORTACION_WEB/SS/ABCTV_t-290x163.png" group-title="NOTICIAS", ABC TV 🇵🇾
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GRfQZMK.png" group-title="NOTICIAS",LiveNow Fox
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="http://imgfz.com/i/SHrm6TF.png" group-title="NOTICIAS",HispanTV
 https://ott2.hdlatam.tv:443/live_abr/Stream67/live/stream67hd/chunks.m3u8
 
