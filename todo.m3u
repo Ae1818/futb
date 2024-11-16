@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Actualizado 10/11/2024"
+#EXTM3U billed-msg="Actualizado 16/11/2024"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -180,6 +180,10 @@ http://45.228.233.93:8000/play/ca032/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://claplivehdplay.ru/
 #EXTINF:-1 tvg-id="mls.us" tvg-logo="https://i.imgur.com/DBIYmWz.png" group-title="LIGAS EUROPEAS",MLS
 https://megaezztv.webcindario.com/app/sports.php?id=mls
+
+#EXTINF:-1 tvg-logo="https://stconcacafwp001.blob.core.windows.net/media/3ccawxwc/cac_primary_color.png" group-title="LIGAS EUROPEAS", CONMEBOL (1)
+https://marine2.miplay.cl/chvchile/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/350px-LaLiga_TV_Hypermotion_2023_Logo.svg.png", tvg-id="ksport1hd" group-title="LIGAS EUROPEAS",LaLiga TV Hypermotion
 #KODIPROP:inputstream.adaptive.license_type=clearkey
