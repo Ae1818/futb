@@ -416,14 +416,7 @@ http://webtvstream.bhtelecom.ba/hls19/club_mtv.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA9
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_PLUS_HD_MX)/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/small.HBO_Family.png.2afb38473c7d287d978a8fd53fa5f8c6.png" group-title="CINE", HBO FAMILY
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"4ScBEQi2tblkag3rOl1xvQ","kid":"HX7TgVy643hc6_5rQvPGVQ"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO_FAMILY_HD)/manifest.mpd
+https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="Paramount Channel.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="CINE", Paramount
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -509,11 +502,6 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98ea1e32227adcd3618baac2bbf36814:72a03a09d33e412f14a9bfa4ef24b542
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/master.mpd
-
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_04/1.png.0023d21826401e1887f013aedca3274d.png" group-title="CINE", A TRES SERIES
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=842c048746a377c8bbfe73a5379457cc:c18b4b542ec42d1434141518c62d5966
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(A3SERIESHD)/manifest.mpd
 
 #EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="" tvg-logo="https://www.cablemaster.com.mx/images/Logos/aztecauno.jpg" group-title="MEXICO", Azteca Uno
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
