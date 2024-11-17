@@ -104,6 +104,8 @@ https://ott2.hdlatam.tv:443/live_abr/Stream67/live/stream67hd/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1600px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS", CNN 
 http://208.86.19.13:81/20.stream/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sport5_Logo.png/440px-Sport5_Logo.png" group-title="DEPORTES", SPORT5 🇮🇱
+https://rgelive.akamaized.net/hls/live/2043151/radiolive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hKP8X8B/f24.png" group-title="NOTICIAS",FRANCE 24 
 https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8
