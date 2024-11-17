@@ -674,16 +674,6 @@ https://mx1.gt-app.com/82/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUr
 #EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="CINE", AMERICA PERU
 https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="NOTICIAS", America Tv
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTVLCOPT:network-caching=1000 
-#EXTVLCOPT:http-user-agent="FireFox" 
-#EXTVLCOPT--http-reconnect=true 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=191cb77dc62239db87596dec62c9b98f:9aea5f097603b3dc919ba86694c1a39d
-https://1011-vos.dtvott.com/DASH/manifest.mpd
-
 #EXTINF:-1 group-title="CINE" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png", De Pelicula
 http://45.228.233.93:8000/play/ca082/index.m3u8
 
