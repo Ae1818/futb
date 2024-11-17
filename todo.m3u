@@ -921,10 +921,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35
 #EXTINF:-1 tvg-id="6202ab549654c800076ee13f" tvg-name="Nickelodeon Rocket Power" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png" group-title="24/7" tvg-chno="1450", Rocket Power
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6202ab549654c800076ee13f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=90e294719f2fff6d7e9e965f4a555d66:fa230329e8ca3ae084cd1fb3b701421e
-#EXTINF:-1 tvg-chno="415" tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GEDGE.png?raw=true" group-title="CINE", Golden Edge
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(GOLDEN_EDGE_HD)/manifest.mpd
+#EXTINF:-1 tvg-chno="415" tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GEDGE.png?raw=true" group-title="DEPORTES", Fox Deportes
+https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=(GOLDEN_EDGE_HD)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2dbef982f13bea39e39b58cfa8ed78d2:f650c3f23317074bce3b853660c5556c
