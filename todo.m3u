@@ -898,6 +898,9 @@ https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea
 #EXTVLCOPT:http-referrer=https://teveo.cu/
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="QhuboTV.hn" tvg-logo="https://i.imgur.com/yZmnfvj.png" group-title="CENTROAMERICA",Q'hubo TV
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OHR99lF.png" group-title="DEPORTES", ESPN 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
