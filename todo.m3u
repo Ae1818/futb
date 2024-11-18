@@ -782,6 +782,13 @@ https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="CENTROAMERICA", TV AZTECA GUATE 
 https://ch1-tva.duin.dev/hls/stream.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="CENTROAMERICA", TELETICA 🇨🇷
+#EXTVLCOPT:http-referrer=https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="CENTROAMERICA", CANAL 6 REPRETEL🇨🇷
+https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" tvg-id="5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc1bc8ab-32db-4b42-ae66-d4e07eaa0a9f/Oro_TV_1500x1000-_For_dark_backgrounds.png" group-title="CINE" , CINE DE ORO
 https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
 
