@@ -1003,8 +1003,8 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spor
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i2.paste.pics/b3e8bacc2ea39f1fb3f7fd7d8d5e7576.png" group-title="INFANTILES", Pocoyo
 https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosdeguate.com/wp-content/uploads/2023/04/aurora-media-films.webp" group-title="CINE", Aurora Media Films
-https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="CINE", AXN
+https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i2.paste.pics/dad53a17aceb11d80b7ec90ec2398f2f.png" group-title="INFANTILES", Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
