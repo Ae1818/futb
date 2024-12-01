@@ -1132,6 +1132,11 @@ http://fina.dyndns.tv/Peliculas/Toy%20story%201.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/9rpdhn7p7mDZW2rUXsINf9c6sR5.jpg",La Era de Hielo 2002
 "url": "http://fina.dyndns.tv/Peliculas/La%20Era%20de%20Hielo%201.mkv
 
+#EXTINF:-1 tvg-logo="https://canalcocina.es/themes/theme2015/images/main-logo.gif?6541be6d39052" group-title="CULTURA", CANAL COCINA 4K
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1622e41b898458f889c697b0de3d1f0:7ad1ffd9308b35d961a6dae3c596fa57
+https://cache1.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd
+
 #EXTINF:-1 tvg-logo="https://archive.org/download/cutout-1677429730/Finne.jpg",Buscando A Nemo
 https://archive.org/download/lokng-4-n-3m-0/Lokng%204%20N3m0.mp4
 
