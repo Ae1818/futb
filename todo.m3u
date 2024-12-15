@@ -289,7 +289,9 @@ https://cors-proxy.elfsight.com/https://linear.stvacdn.spectrum.com/LIVE/1106/da
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGAS EUROPEAS", LIGA ESPAÑOLA (2)
-http://45.189.108.146:1935/cdn3/ESPN2.stream/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qj3kUHKOUO281HqwOSAPbg","k":"SxsbjrdYUpX8bJrQVLrGRw"},{"kty":"oct","kid":"OITRjYctULWc6vA1MM3bzA","k":"RfWtZ1v02QVgQqkBIzAsDw"},{"kty":"oct","kid":"OJbBik/NVO+rr5sb2xgw9Q","k":"478TyNRjr15btWehw+oXJQ"}]}
+https://tvup01.edge.milloh-cs.com/laligatv/laligatv.mpd
 
 #EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/favImage.png"group-title="CINE",STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
