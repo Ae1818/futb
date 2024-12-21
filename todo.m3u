@@ -365,7 +365,7 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://logodix.com/logo/95977.png" group-title="CINE", HBO 
-http://45.228.233.93:8000/play/ca064/index.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/cdnrji/HBO/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkYOVIo59NZwPcHlJYYItJ-gg7jKB4HbtHTw&s" group-title="DEPORTES", TIGO SPORTS PY
 #EXTVLCOPT:network-caching=1000
