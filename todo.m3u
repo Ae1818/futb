@@ -1032,8 +1032,8 @@ https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://stconcacafwp001.blob.core.windows.net/media/3ccawxwc/cac_primary_color.png" group-title="LIGAS EUROPEAS", COPA CENTROAMERICANA
 http://181.78.105.146:6060/play/a05k/index.m3u8
 
-#EXTINF:-1 tvg-id="CL | MX Family" tvg-name="CL | MX Family" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg" group-title="INFANTILES", MX Family
-https://marine2.miplay.cl/mxfamily/playlist.m3u8
+#EXTINF:-1 tvg-id="CL | MX Family" tvg-name="CL | MX Family" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173383.jpg?w=1119&h=1019" group-title="INFANTILES", FMH KIDS
+http://bantel-cdn1.iptvperu.tv:1935/cdnfit/FMH_Kids/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="413" tvg-id="" tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="CINE", Cinema+
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
