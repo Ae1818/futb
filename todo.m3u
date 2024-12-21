@@ -868,11 +868,6 @@ http://45.232.148.101:8000/play/a07c/index.m3u8
 #EXTINF:-1 tvg-chno="415" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/170px-Logo_tvmax.png" group-title="CENTROAMERICA", TV MAX
 https://tvnpan-ecdn3.cdn.mdstrm.com/live-stream-dai/65d4c7bcbe741b6c4131bd70/c2986629464f4312b2ebc46b572e2aab/f624fec49dadc88894ebeff1d974eab019af7757/session/43268dfc-e35f-4fed-a003-4051fb09e26f/media.m3u8?aid=6495bd4ecd55fe08b4765b53&uid=rjwxgsufgb45pxwpyx1rj68ns9h3vvk8&sid=js9p1nbvugbmbxqxntndvyqvz6p9w33r&pid=mqcwnl71xwd0d6korhv0pj4npedfmtll&ref=https%3a%2f%2ftvnpass.com%2f&without_cookies=false&listenerid=&dnt=true&access_token=thow7ko4iq85ycpk1gcgld4gffyqo0yh4dqgzosx7gyfd5wndnz2jegihmgsle9gc9maurdwrzl&es=tvnpan-ecdn3.cdn.mdstrm.com&proto=https&pz=us&hash=0c3d423051f23285c9f2f
 
-#EXTINF:-1 tvg-chno="415" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/TVN_Panam%C3%A1_%282017%29.png" group-title="CULTURA", Discovery World
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ae8ca01f55e88a7761c62285d6c593e:f862c04c997b3f64984b1aa5126dda1f
-https://pylocallivechanneldash.lcdn.clarotv.com.py/Content/DASH_DASH_FK/Live/channel(DISCOVERY_WORLD)/master.mpd
-
 #EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/14009/14009741.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png" group-title="ESPAÑA",CUATRO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
