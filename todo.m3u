@@ -818,8 +818,8 @@ https://ch1-tva.duin.dev/hls/stream.m3u8
 #EXTVLCOPT:http-referrer=https://bradmax.com/client/embed-player/c7c83ebb46fa89529a7383d933e2038729f8e4c9_13428?id=tv7&mediaUrl=https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8&mediaUrl2=https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" tvg-id="5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc1bc8ab-32db-4b42-ae66-d4e07eaa0a9f/Oro_TV_1500x1000-_For_dark_backgrounds.png" group-title="CINE" , CINE DE ORO
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" tvg-id="5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176075.jpg?w=1119&h=1019" group-title="CINE" , Cine Canal
+http://bantel-cdn1.iptvperu.tv:1935/cdnksg/cinecanal/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/emanuel7-tv.png" group-title="RELIGIOSO" tvg-id="Emanuel7" tvg-name="Emanuel7 TV", Emanuel7 TV
 https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8
@@ -878,10 +878,7 @@ https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
 https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1432px-Logo_tlnovelas_feb2019.png" group-title="CINE", TLNOVELAS
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e78391deb5706f9311d952d6be6a6139:6f18f24433288d9462597aed58138336
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(TLNOVELAS)/manifest.mpd
+http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png",Pasiones 
 http://45.228.233.93:8000/play/ca092/index.m3u8
