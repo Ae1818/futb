@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Actualizado 20/12/2024"
+#EXTM3U billed-msg="Actualizado 21/12/2024"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -28,15 +28,8 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8?h
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Canal-21.png/320px-Canal-21.png" group-title="EL SALVADOR",CANAL 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8?hdnts=exp=1656268920~acl=/*~hmac=8fda93655adbfe1025b406ea7775f2e8f576dd0b7b3984173d4e4110b986a18a
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iojehzx.png" group-title="CINE", Universal Cinema
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"VIgmlHNIdPKAJZ-4tnZqsw","kid":"Zu6B_r52iHWuL-5bj1EuFQ"}],"type":"temporary"}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CINEMA_HD)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176011.jpg?w=1119&h=1019" group-title="CINE", CINE FAMILIAR
+http://bantel-cdn1.iptvperu.tv:1935/cdnksg/cinefamiliar/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="820" tvg-logo="https://i.imgur.com/BRzYkgO.png" group-title="CINE", Cinemax
 https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
