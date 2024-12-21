@@ -949,11 +949,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6202ab549654c800076ee1
 #EXTINF:-1 tvg-chno="415" tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GEDGE.png?raw=true" group-title="DEPORTES", Fox Deportes
 https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=(GOLDEN_EDGE_HD)/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2dbef982f13bea39e39b58cfa8ed78d2:f650c3f23317074bce3b853660c5556c
-#EXTINF:-1 tvg-chno="306" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/TEENK.png?raw=true" group-title="INFANTILES", Teen Nick
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(NICK_2_HD)/manifest.mpd
-
 #EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://iili.io/JhkZFyP.png" group-title="DEPORTES",DAZN 3 🇪🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1009,9 +1004,6 @@ https://live2-ott.izzigo.tv/out/u/dash/SKYSPORTS-16-HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
-
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i2.paste.pics/b3e8bacc2ea39f1fb3f7fd7d8d5e7576.png" group-title="INFANTILES", Pocoyo
-https://daiconnect.com/live/hls/tvup/tvfy-pocoyo/.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="CINE", AXN
 https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
