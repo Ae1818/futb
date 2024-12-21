@@ -773,14 +773,7 @@ https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
 http://177.93.46.163:8000/play/a02b
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/disney-channel.png",Disney Channel
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=027e637afed7db11853ff1a19cc8e4db:608f91f05536f5a6c93e70cdd95aba5c 
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISNEY_HD)/manifest.mpd
+http://bantel-cdn1.iptvperu.tv:1935/cdnfit/disneychannel/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1024px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon 
 http://bantel-cdn1.iptvperu.tv:1935/cdnfit/nick_jr/playlist.m3u8
