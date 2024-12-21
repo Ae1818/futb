@@ -190,20 +190,8 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/o
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV1" tvg-logo="https://api.rentm3u8.com/images/png/pt-sporttv1.png" group-title="DEPORTES",SPORT TV1
-http://216.227.145.114:8000/SPORT_TV1_ALTERNATIVE/index.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="SPORT TV2" tvg-logo="https://api.rentm3u8.com/images/png/pt-sporttv2.png" group-title="DEPORTES",SPORT TV2
-http://216.227.145.114:8000/SPORT_TV2_ALTERNATIVE/index.m3u8
-
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="NOTICIAS", aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-#EXTINF:-1 tvg-id="TNTSports.ar" tvg-name="" tvg-logo="https://i.ibb.co/Cs57Q9Z/tntsports.png" group-title="DEPORTES", TNT SPORTS 🇦🇷
-#EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "kty": "oct", "k": "wcGO7LkGF5MY6X7j6spr+w", "kid": "lCjeLXB1Q2+CsETbkdkorg" } ], "type": "temporary" }
-https://anedgesgo.express.com.ar/live/c1eds/TNT_Sports_HD/SA_DASH_cipix/TNT_Sports_HD.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.colsecor.com.ar/futbol/img/logo_foxsports.png"  group-title="DEPORTES",ESPN Premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey						
