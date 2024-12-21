@@ -790,7 +790,7 @@ http://177.93.46.163:8000/play/a02b
 https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISNEY_HD)/manifest.mpd
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1024px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon 
-http://177.93.46.163:8000/play/a004
+http://bantel-cdn1.iptvperu.tv:1935/cdnfit/nick_jr/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="INFANTILES" , Disney Junior 
 http://45.5.117.182:8000/play/a0eq/index.m3u8
