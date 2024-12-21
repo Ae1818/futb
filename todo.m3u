@@ -939,10 +939,8 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c97
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://xyzdddd.videohls.ru/lb/premium66/index.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34cdc6269c656c6994d86ee9cbbcdc6c:b24f4c3fb57f95854d3b2568ee16fda8
 #EXTINF:-1 tvg-chno="902" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNVSN.png?raw=true" group-title="NOTICIAS", Univisión
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(UNICABLEHD_ARG)/manifest.mpd
+http://bantel-cdn1.iptvperu.tv:1935/cdnygz/Univision/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="5ced7d5df64be98e07ed47b6" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" ,NFL
 https://lg-nflchannel-1-us.lg.wurl.tv/playlist.m3u8
