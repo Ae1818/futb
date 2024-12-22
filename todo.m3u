@@ -813,7 +813,9 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:11_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="lasexta.es" tvg-logo="https://i.ibb.co/K91WnFp/Caza-y-pesca.png" group-title="ESPAÑA", Caza y Pezca
-https://archive.org/download/2_20231125_202311/caza%26pez.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=29e9c8c5e5c8d2913554f1ab96477d24:d92ff077d47c153147354c5a2dc8805e
+https://eclocallivechannelsdash.clarovideo.com/bpk-tv/ECDFHD/dash_fk/index.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/MegaHD.png" group-title="ESPAÑA", Mega HD
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:15_HD.smil/manifest.mpd
