@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Actualizado 22/12/2024"
+#EXTM3U billed-msg="Actualizado 23/12/2024"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -710,6 +710,15 @@ http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
 
 #EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://logo.iptveditor.com/animalplanet.png", Animal Planet
 http://45.5.117.182:8000/play/a0fj/index.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=80833609a69c8647766a2de347512f92:039c1884003d62b4fb55babf944e1523
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+#EXTGRP:CANALES HOOTLASK
+#EXTVLCOPT:audio-track="es-ES"
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-shift="" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="CULTURA", Animal Planet 
+https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
 
 #EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://i.imgur.com/NJxedr8.png", History Channel
 https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
