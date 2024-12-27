@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Actualizado 26/12/2024"
+#EXTM3U billed-msg="Actualizado 27/12/2024"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -421,7 +421,7 @@ http://webtvstream.bhtelecom.ba/hls19/club_mtv.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA9
 #EXTINF:-1 tvg-id="HBO PLUS" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_04/1.png.0023d21826401e1887f013aedca3274d.png" group-title="CINE", HBO PLUS
 https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
 
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2021_05/small.HBO_Family.png.2afb38473c7d287d978a8fd53fa5f8c6.png" group-title="CINE", HBO FAMILY
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://heroeip.github.io/logo/HboFamily_1.png" group-title="CINE", HBO FAMILY
 https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1 tvg-id="Paramount Channel.co" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703173812.jpg?w=1119&h=1019" group-title="CINE", Sony Channel
