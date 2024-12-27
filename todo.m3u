@@ -922,6 +922,14 @@ https://tvnoov.com/fadoo/golplayhd.m3u8
 #EXTINF:-1 tvg-id="Latina.pe", tvg-logo="https://i.imgur.com/TmQwVfw.png", group-title="NOTICIAS", Latina Peru
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8
 
+#EXTINF:-1 tvg-logo="https://heroeip.github.io/logo/Latina.png", LATINA
+#EXTGRP:CINE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+####KODIPROP:inputstream.adaptive.license_key=258d9a97d00433449b249fed46025326:deff8cbf335fd93f8a3bde52d23bb21e
+####https://1157-vos.dtvott.com/DASH/manifest.mpd
+
 #EXTINF:-1 tvg-chno="78.4" tvg-id="Cubavisión Internacional HD" group-title="CENTROAMERICA" tvg-id="cubavi.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cubavisión-Internacional.png",Cubavisión Internacional
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
