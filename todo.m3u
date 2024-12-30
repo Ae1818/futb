@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Actualizado 29/12/2024"
+#EXTM3U billed-msg="Actualizado 30/12/2024"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -814,6 +814,9 @@ https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 
 #EXTINF:-1 tvg-id="APlusGuate.gt" tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="CENTROAMERICA",A+ Guate 🇬🇹
 https://ch2-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="APlusGuate.gt" tvg-logo="https://i.imgur.com/grr8BlV.png" group-title="NOTICIAS",SBS🇰🇷
+http://1.245.74.5:1935/live/tv/.m3u8
 
 #EXTINF:-1 tvg-id="Canal13Esquipulas.gt" tvg-logo="https://i.imgur.com/INKZvlN.png" group-title="CENTROAMERICA",Canal 13 Esquipulas 🇬🇹
 https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
