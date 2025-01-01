@@ -89,9 +89,6 @@ https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
 https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
-#EXTINF:0 CUID="1167" tvg-name="Discovery Investigation (Auto)" tvg-logo="http://logo.protv.cc/picons/logos/DISCOVERY-INVESTIGATION.png" group-title="USA",Discovery Investigation 🇺🇸
-https://raw.githubusercontent.com/Angelokh22/IPTV-Playlist/main/Streams/discovery/investigation%20discovery/Investigation_Discovery.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1599px-Deutsche_Welle_symbol_2012.svg.png" group-title="NOTICIAS",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8
 
@@ -1091,11 +1088,6 @@ https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
-
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="" tvg-logo="https://i.ibb.co.com/vXmmNCQ/hbofam.png" group-title="USA", HBO FAMILY 🇺🇸
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
-https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="fox-sports.mx", tvg-logo="https://caliente.asset.viewlift.com/images/brand/2024/08/13/Launch-Image-3840x2160-1723512276095.png", Caliente TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
