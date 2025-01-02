@@ -390,9 +390,7 @@ https://sam-py-edge04.tigo.com.py/out/v1/62de20495af84f908fa8963f50c44d46/index.
 http://109.233.89.166/MTV_Hits/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="🎵 MÚSICA", MTV 80s
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-http://webtvstream.bhtelecom.ba/hls18/mtv_80s.mpd?n=fIywBW0QQGm8IF3FrBnHh1:APA91bFQ2Ae7cZNm0rV3cd_fiV4OmX4dObMJbHr7ntUl0K33d0PIu4D4xuZ0CY3nzqLY6WHY12g6Sy4g1n-x9CTLjkHSffmyDI9IkR6Pt0k-wvwpa6dEaOx3K3Lb7L49M8wamqlwgi-v
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="DEPORTES"  tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png",BEIN SPORTS 3 TH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
