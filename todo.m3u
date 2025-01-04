@@ -182,6 +182,14 @@ https://megaezztv.webcindario.com/app/sports.php?id=mls
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/5/42/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football-world-cup-blue-text-trademark-thumbnail.png" group-title="LIGAS EUROPEAS", CONMEBOL (1)
 https://marine2.miplay.cl/chvchile/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.pinimg.com/236x/6d/28/62/6d2862da41e5da8760996abcb7361438.jpg", Go 3 Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/5/42/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football-world-cup-blue-text-trademark-thumbnail.png" group-title="LIGAS EUROPEAS", CONMEBOL (2)
 https://americatv-ecdn3.cdn.mdstrm.com/live-stream-dai/d302a65b304245a1a63015260288df35/manifest/f624fec49dadc88894ebeff1d974eab019af7757/6099b04d9418ac082441dd74/faafbbad-b595-44db-a52e-458e75ee04d2/0.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=8xb1hcw5mvi040srfuucgeiapnf9mboa&sid=zm3jzndmgafa7vvdjjtbaync3udpniku&pid=o6lfumkdz6bvwmz5lw0pzo3dcruqrsnx&ref=https%3a%2f%2ftvgo.americatv.com.pe%2f%3futm_source%3dtvgo%26utm_medium%3dlanding-copa-america%26utm_campaign%3dcopa-america%26utm_content%3d%26utm_term%3d&without_cookies=false&listenerid=&dnt=true&access_token=gvz241atrroglpmbzonz1sehvtvxs6yum4gnvdxjxzv1udcgmtm0qsntw5v2fy6npohttadkzpd&es=americatv-ecdn3.cdn.mdstrm.com&proto=https&pz=us&hash=0717a390ef4175b851445
 
