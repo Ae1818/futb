@@ -887,12 +887,7 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:15_HD.smil/man
 https://d3nnqrdb77sy13.cloudfront.net/Clan_ES.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.ibb.co.com/580BTxg/matchru.png", MATCH! TV 🇷🇺
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
-https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
+http://belami.top/DATAS/arm/plays.php?ch=94&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/873/769/png-clipart-espn-com-logo-espn-radio-others-text-label-thumbnail.png" group-title="DEPORTES", ESPN 🇧🇷
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8?|referer=https://futebolplayhd.com/
