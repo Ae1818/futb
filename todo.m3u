@@ -535,9 +535,6 @@ http://cdn.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/sta01/CanalInfantil/live_dash_cld/CanalInfantil.mpd
 
-#EXTINF:-1 group-title="DEPORTES" ch-number="115" tvg-id="GOL TV HD.cl" tvg-logo="https://dl.dropbox.com/scl/fi/b5vv58w3mdjkopsb9edhy/goltv.jpg?rlkey=digisjr7amuf7j7xudugbe3m4&dl=1", Gol TV
-http://45.189.108.146:1935/xmp_trans/goltv.stream/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://cdn-icons-png.flaticon.com/512/1403/1403474.png" group-title="Lista 11",_CLICK AQUI PARA ACTIVAR !!
 https://mx1.gt-app.com/aXkOpHghTvM/fTrgOpYKsP.php|user-agent=Chrome/Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML group-title="Lista 11",  like Gecko) Chrome/103.0.0.0 Safari/537.36
 
