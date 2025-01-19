@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Actualizado 18/01/2025"
+#EXTM3U billed-msg="Actualizado 19/01/2025"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -1110,19 +1110,15 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/o
 #KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
 https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="TNTSports1.uk" tvg-logo="https://i.ibb.co.com/kqXTRqF/tntsp1.png",TNT SPORTS 1 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"ae26845bd33038a9c0774a0981007294":"63ac662dde310cfb4cc6f9b43b34196d"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98lzwzL.png" group-title="DEPORTES",TNT Sports 1 GB
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="TNTSports2.uk" tvg-logo="https://i.ibb.co.com/ftMYw1j/tntsp2.png",TNT SPORTS 2 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"6d1708b185c6c4d7b37600520c7cc93c":"1aace05f58d8edef9697fd52cb09f441"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98lzwzL.png" group-title="DEPORTES",TNT Sports 2 GB
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 group-title="DEPORTES" tvg-id="TNTSports3.uk" tvg-logo="https://i.ibb.co.com/sQwLrNy/tntsp3.png",TNT SPORTS 3 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1137,6 +1133,12 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://player.sensa.com.ar/
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HVXciO2.png" group-title="DEPORTES",Fox Sports🇦🇷
+https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd
 
 #EXTINF:-1 tvg-logo="https://www.planetadelibros.us/usuaris/libros/fotos/384/m_libros/383604_portada_la-sociedad-de-la-nieve-spanish-edition_pablo-vierci_202307210306.jpg" group-title="PELICULAS", LA SOCIEDAD DE LA NIEVE (2023)
 https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/Ver%20La%20sociedad%20de%20la%20nieve%20online%20HD%20-%20Cuevana%202.mp4
