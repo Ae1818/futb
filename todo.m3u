@@ -1127,11 +1127,9 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/o
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 group-title="DEPORTES" tvg-id="TNTSports4.uk" tvg-logo="https://i.ibb.co.com/cwc9MzW/tntsp4.png",TNT SPORTS 4 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+#KODIPROP:inputstream.adaptive.license_key={"e31a5a81caff5d07ea2411a571fc2e59":"96c5ef69479732ae734f962748c19729"}
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98lzwzL.png" group-title="DEPORTES",TNT Sports 4 GB
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
