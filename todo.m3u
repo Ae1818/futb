@@ -776,7 +776,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.imgur.com/ByQio1V.png",Nick JR 
-http://177.93.46.163:8000/play/a02b
+https://gtechtecnologia.com/telelatino/play/112.m3u8
 
 #EXTINF:-1 tvg-logo=" " group-title="DEPORTES",EuroSport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -796,7 +796,7 @@ https://cache3.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_h
 http://bantel-cdn1.iptvperu.tv:1935/cdnfit/disneychannel/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1024px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon 
-http://bantel-cdn1.iptvperu.tv:1935/cdnfit/nick_jr/playlist.m3u8
+https://gtechtecnologia.com/telelatino/play/110.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="INFANTILES" , Disney Junior 
 http://45.5.117.182:8000/play/a0eq/index.m3u8
