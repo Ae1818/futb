@@ -407,10 +407,19 @@ http://109.233.89.166/MTV_Hits/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="🎵 MÚSICA", MTV 80s
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES"  tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png",BEIN SPORTS 3 TH
+#EXTINF:-1 tvg-id="LaOtra" group-title="ESPAÑA" ch-number="217" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/OTRA",LaOtra
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=208049ec2e5bf2e7a5d3e17bbdf2f16f:0dde11377f475bfc203c941e82136360
+https://ott.zapitv.com/live/eds_c2/la_otra/dash_live_enc/la_otra.mpd
+
+#EXTINF:-1 tvg-id="Canal de las estrellas" group-title="ESPAÑA" ch-number="144" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GALAV",Canal de las estrellas
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=940a71d465f34a76d17f66bb84ecd749:309d63d8795189c775b45771c3d4a414
+https://ott.zapitv.com/live/eds_c2/CANAL_DE_LAS_ESTRELLAS/dash_live_enc/CANAL_DE_LAS_ESTRELLAS.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/681px-MTV_90s_2022.svg.png" group-title="🎵 MÚSICA", MTV 90s
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
