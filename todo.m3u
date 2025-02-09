@@ -799,7 +799,7 @@ https://cache3.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_h
 https://cache3.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/disney-channel.png",Disney Channel
-http://bantel-cdn1.iptvperu.tv:1935/cdnfit/disneychannel/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/disney/output.mpd
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1024px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon 
 https://gtechtecnologia.com/telelatino/play/110.m3u8
