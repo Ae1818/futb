@@ -961,6 +961,9 @@ https://xyzdddd.videohls.ru/lb/premium66/index.m3u8
 #EXTINF:-1 tvg-chno="902" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNVSN.png?raw=true" group-title="NOTICIAS", Univisión
 http://bantel-cdn1.iptvperu.tv:1935/cdnygz/Univision/playlist.m3u8
 
+#EXTINF: -1 tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title = "NOTICIAS", AMÉRICA 🇦🇷
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
 #EXTINF:-1 group-title="DEPORTES" tvg-id="5ced7d5df64be98e07ed47b6" tvg-logo="https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" ,NFL
 https://lg-nflchannel-1-us.lg.wurl.tv/playlist.m3u8
 
