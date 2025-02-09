@@ -211,13 +211,14 @@ https://ottb.live.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/o
 #EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="NOTICIAS", aljazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name=""  tvg-logo="https://www.colsecor.com.ar/futbol/img/logo_foxsports.png"  group-title="DEPORTES",ESPN Premium
-#KODIPROP:inputstream.adaptive.license_type=clearkey						
-#KODIPROP:inputstream.adaptive.license_key=f8943d114e25151c8ae4f612351d5a5f:7f34c9a70c836020cbc3273c427ff277
-#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net/?deviceId=NDY3YzliNzMtNWI2ZS00NzhiLWIzOGMtMjFjNDhjNjY3ZWI2
+#EXTINF:-1 group-logo="https://cdn-icons-png.flaticon.com/128/3137/3137807.png" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/96/CH_LOGO/160/160/0/0/50191211073985.png" group-title="DEPORTES",ESPN PREMIUM (🇦🇷)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://cdn.sensa.com.ar/live/eds/FoxSportsPremium/live_dash_cld/FoxSportsPremium.mpd
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/
+https://smt-edge03.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
 
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World Japan" tvg-logo="https://sing.com.br/wp-content/uploads/2019/11/NHK-japan-1030x1030.png" group-title="NOTICIAS",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
@@ -910,12 +911,6 @@ https://tvup01.edge.milloh-cs.com/mega6/mega6.mpd
 
 #EXTINF:-1 tvg-id="DKISS" group-title="ESPAÑA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DKISS",DKISS
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:25_HD.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/7rYtwhY/m4sport.png" group-title="DEPORTES", M4 SPORT 🇭🇺
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=317aef79ab54447caaeecfec10c9b196:4d9fee9624bf32274cb407afd3d5d248
-https://m7rovideolive.solocoo.tv/blueskylive2dash/bluem4sport/Manifest.mpd
 
 #EXTINF:-1 tvg-id="DKISS" group-title="INFANTILES" tvg-logo="https://i.imgur.com/ol3XPo3.png",BOING
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.mpd
