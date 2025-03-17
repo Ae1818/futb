@@ -824,6 +824,9 @@ http://bantel-cdn1.iptvperu.tv:1935/cdnksg/cinecanal/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/emanuel7-tv.png" group-title="RELIGIOSO" tvg-id="Emanuel7" tvg-name="Emanuel7 TV", Emanuel7 TV
 https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/emanuel7-tv.png" group-title="RELIGIOSO" tvg-id="Emanuel7" tvg-name="Emanuel7 TV", SALVAVISION
+https://stmv1.zcasthn.com.br/salvavision/salvavision/playlist.m3u8
+
 #EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://i.imgur.com/0LWxQ0O.png" tvg-id="",canal 11 🇬🇹
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
