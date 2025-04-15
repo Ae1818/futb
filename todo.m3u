@@ -481,6 +481,9 @@ https://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?|referer=https:/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 group-title="UEFA CHAMPIONS LEAGUE" tvg-logo="https://brandemia.org/contenido/subidas/2021/05/portada3-uefa-imagenes-brandemia-web-1000x670.jpg", CHAMPIONS LEAGUE (6)
+https://stream.veo.buzz:6072/sport/ch1/ch1_1080.m3u8
+
 #EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="" tvg-logo="https://www.cablemaster.com.mx/images/Logos/aztecauno.jpg" group-title="MEXICO", Azteca Uno
 https://dujft6o2exhah.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0lvc4h1b07aou/mun.m3u8
 
