@@ -678,7 +678,7 @@ https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe8-OZQYKbCJfjV2C44_gCvEeC-xrqomWNIg&usqp=CAU" group-title="MEXICO",DISTRITO COMEDIA
-http://45.5.117.182:8000/play/ihf9/index.m3u8
+http://clubtv.link/120425ab/phpcode/lista4.php?c=46592&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png" group-title="EL SALVADOR", TVO
 http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
