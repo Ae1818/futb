@@ -430,14 +430,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 
 #EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="" tvg-logo="https://logo.iptveditor.com/azteca7.png" group-title="MEXICO", Azteca 7
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c15a10921bed75a3ec5385e0ecdb6499:4e44df62547a1544a4623418918658d0
-https://live4-ott.izzigo.tv/out/u/dash/AZTECA-7-HD/default.mpd
+http://clubtv.link/120425ab/phpcode/lista0.php?c=54&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="" tvg-logo="https://logo.iptveditor.com/tudn.png" group-title="DEPORTES", TUDN 🇲🇽
 http://200.115.120.1:8000/play/ca039/index.m3u8
