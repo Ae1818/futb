@@ -802,7 +802,7 @@ rtmp://s.emisoras.tv/static/diostevekids
 https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-id="lasexta.es" tvg-logo="https://tbcdn.talentbrew.com/company/391/v3_0/img/espn/espn-logo-white.png" group-title="DEPORTES", ESPN
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/espn1/playlist.m3u8
+http://clubtv.link/120425ab/phpcode/lista0.php?c=77&token=Tecnoplus11&f=.m3u8
 
 #EXTINF:-1 tvg-id="lasexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="ESPAÑA", LA SEXTA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
