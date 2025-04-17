@@ -140,7 +140,7 @@ https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/playlist_mo.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="rainews.tv.vodafone.pt" group-title="LIGAS EUROPEAS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rai-News-24.png", LIGA ESPAÑOLA (2)
+#EXTINF:-1 tvg-name="" tvg-id="rainews.tv.vodafone.pt" group-title="LIGAS EUROPEAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png", LIGA ESPAÑOLA (2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
@@ -281,11 +281,6 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2d
 #EXTVLCOPT:network-caching=1500
 #EXTVLCOPT--http-reconnect=true
 http://181.78.106.127:9000/play/ca027/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGAS EUROPEAS", LIGA ESPAÑOLA (2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qj3kUHKOUO281HqwOSAPbg","k":"SxsbjrdYUpX8bJrQVLrGRw"},{"kty":"oct","kid":"OITRjYctULWc6vA1MM3bzA","k":"RfWtZ1v02QVgQqkBIzAsDw"},{"kty":"oct","kid":"OJbBik/NVO+rr5sb2xgw9Q","k":"478TyNRjr15btWehw+oXJQ"}]}
-https://tvup01.edge.milloh-cs.com/laligatv/laligatv.mpd
 
 #EXTINF:-1 tvg-logo="https://sarapiquitvcr.com/favImage.png"group-title="CINE",STV
 https://lstv.duckdns.org:449/hls/stv.m3u8
