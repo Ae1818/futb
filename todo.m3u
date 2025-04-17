@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Actualizado 15/04/2025"
+#EXTM3U billed-msg="Actualizado 17/04/2025"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -374,7 +374,13 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd
 
 #EXTINF:-1 tvg-id="HBO" tvg-logo="https://logodix.com/logo/95977.png" group-title="CINE", HBO 
-http://bantel-cdn1.iptvperu.tv:1935/cdnrji/HBO/playlist.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=df18f6a05bab28d89e5dc01d88f4deb8:baceb525467c0db22ba83090616c1ad0
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+#EXTGRP:CANALES HOOTLASK
+#EXTVLCOPT:audio-track="es-ES"
+https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkYOVIo59NZwPcHlJYYItJ-gg7jKB4HbtHTw&s" group-title="DEPORTES", TIGO SPORTS PY
 #EXTVLCOPT:network-caching=1000
@@ -775,7 +781,7 @@ https://ch1-tva.duin.dev/hls/stream.m3u8
 https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 
 #EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" tvg-id="5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa" tvg-logo="https://bantel.iptvperu.tv/img/channels/logo_1703176075.jpg?w=1119&h=1019" group-title="CINE" , Cine Canal
-http://bantel-cdn1.iptvperu.tv:1935/cdnksg/cinecanal/playlist.m3u8
+https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://neotv.cl/assets/img/channels/emanuel7-tv.png" group-title="RELIGIOSO" tvg-id="Emanuel7" tvg-name="Emanuel7 TV", Emanuel7 TV
 https://stmv6.voxtvhd.com.br/emanueltv/emanueltv/playlist.m3u8
