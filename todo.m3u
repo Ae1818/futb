@@ -642,6 +642,9 @@ https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source
 #EXTINF:-1 group-title="CINE" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png", family
 http://45.228.233.93:8000/play/ca082/index.m3u8
 
+#EXTINF:-1 group-title="RELIGIOSO" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png", SALVAVISION
+https://tv.webmedialive.com/salvavision/live/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=639e9249b63b731e7621953d27aa5393:ce09cb3f4bcad5c1febe10893b6ba491
 #EXTINF:-1 group-title="CINE" ch-number="312" tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://dl.dropbox.com/scl/fi/mpiciqqwxiy5z7u0opv9z/depelicula.jpg?rlkey=219iltoyf7si8dgco7g5vv6g7&dl=1", De película
