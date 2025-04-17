@@ -689,9 +689,6 @@ http://clubtv.link/120425ab/phpcode/lista4.php?c=46592&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png" group-title="EL SALVADOR", TVO
 http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
 
-#EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://logo.iptveditor.com/animalplanet.png", Animal Planet
-http://45.5.117.182:8000/play/a0fj/index.m3u8
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=80833609a69c8647766a2de347512f92:039c1884003d62b4fb55babf944e1523
@@ -750,9 +747,6 @@ http://45.5.117.182:8000/play/a0eq/index.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/discovery-kids.png",Discovery Kids 
 http://45.189.148.24:8000/play/a002
-
-#EXTINF:-1 group-title="CULTURA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQXu0Lu2MhvJD2JumvMJ5pC7m9OZnvH259rQ&usqp=CAU", NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:0 type="stream" group-title="INFANTILES" logo="", FUNBOX
 #EXTVLCOPT:network-caching=1000
