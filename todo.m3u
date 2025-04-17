@@ -132,10 +132,8 @@ https://rt-esp.rttv.com:443/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-1 channel-id="pluto-5fcea93ffcf94500071c4b2f" tvg-id="5fcea93ffcf94500071c4b2f" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" tvg-chno="1365" group-title="24/7" , Kenan y Kel
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="DEPORTES", SPORTV 🇧🇷
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://futebolplayhd.com/
-https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/cazetv.png" group-title="DEPORTES",Caze TV🇧🇷
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="rainews.tv.vodafone.pt" group-title="NOTICIAS" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rai-News-24.png",Rai News 24ᴴᴰ 🇮🇹
 #KODIPROP:inputstream=inputstream.adaptive
