@@ -813,8 +813,14 @@ https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://www.pngkit.com/png/full/166-1669896_yellow-rectangle-png-colorfulness.png",NatGeo 
 https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/1432px-Logo_tlnovelas_feb2019.png" group-title="CINE", TLNOVELAS
-http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=361d47939a32a35422d13728b7089728:1d26ccbbc3a3b1f3e3f7e4850a54c6f2
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+#EXTGRP:CANALES HOOTLASK
+#EXTVLCOPT:audio-track="es-ES"
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-shift="" tvg-logo="https://hootlask.com/img/logo/ea.jpg" group-title="CINE",TLNOVELAS
+https://live5-ott.izzigo.tv/out/u/dash/TLNOVELAS-HD/default.mpd
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png",Pasiones 
 http://45.228.233.93:8000/play/ca092/index.m3u8
