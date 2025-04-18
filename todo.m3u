@@ -966,11 +966,14 @@ https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://stconcacafwp001.blob.core.windows.net/media/3ccawxwc/cac_primary_color.png" group-title="LIGAS EUROPEAS", COPA CENTROAMERICANA
 http://181.78.105.146:6060/play/a05k/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="INFANTILES",FUNTV
-https://giatv.bozztv.com/giatv/giatv-funtvretro/funtvretro/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BGwcmQT/Logo-FUNtv.png" group-title="INFANTILES",FUNTV ESTE
-https://ssh101-fl.bozztv.com/ssh101/funtveste/playlist.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=694fa2e355b31ac2c52d0a56d3d8da59:0d7eff2e4dc61d48489555068b0db46a
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+#EXTGRP:CANALES HOOTLASK
+#EXTVLCOPT:audio-track="es-ES"
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-shift="" tvg-logo="https://hootlask.com/img/logo/ea.jpg" group-title="INFANTILES", ADULT SWIM
+https://live5-ott.izzigo.tv/out/u/dash/ADULT-SWIM-HD/default.mpd
 
 #EXTINF:-1 tvg-chno="413" tvg-id="" tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="CINE", Cinema+
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
