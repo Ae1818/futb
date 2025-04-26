@@ -203,8 +203,10 @@ https://live1b-dash-cdn1-vp-cdn-viaplay-tv.akamaized.net/vp/vsf/vsf.isml/index.m
 #EXTINF:-1 tvg-id="mls.us" tvg-logo="https://i.imgur.com/DBIYmWz.png" group-title="LIGAS EUROPEAS",MLS
 https://megaezztv.webcindario.com/app/sports.php?id=mls
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/5/42/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football-world-cup-blue-text-trademark-thumbnail.png" group-title="LIGAS EUROPEAS", CONMEBOL (1)
-https://marine2.miplay.cl/chvchile/index.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/5/42/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football-world-cup-blue-text-trademark-thumbnail.png" group-title="LIGAS EUROPEAS", COPA DEL REY (3)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523
+https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440:UTC,
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/5/42/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football-world-cup-blue-text-trademark-thumbnail.png" group-title="LIGAS EUROPEAS", COPA DEL REY (2)
 https://live-zlr1.tv360.bitel.com.pe:443/bitel/americatv/bitel/americatv_ori_480p/chunks.m3u8
