@@ -324,8 +324,8 @@ https://tr.live.cdn.cgates.lt/live/dash/561002/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
 https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/5/42/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football-world-cup-blue-text-trademark-thumbnail.png" group-title="LIGAS EUROPEAS",COPA DEL REY🇪🇸
-https://live-evg4.tv360.bitel.com.pe/bm9pkYn5NvG-MBPo39pI4g/1745690613/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/5/42/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football-world-cup-blue-text-trademark-thumbnail.png" group-title="LIGAS EUROPEAS",COPA DEL REY
+https://v3.thetvapp.to/hls/espn-deportes/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="LIGAS EUROPEAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ViMzUzZjctZTIxNi00M2MxLWJkMmYtYzcyNzU2ZWU4Y2QzXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" ,CHAMPIONS LEAGUE (2)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
