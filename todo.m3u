@@ -176,6 +176,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d85
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/460px-Bob_esponja_logotipo.svg.png" group-title="24/7",BOB SPONJA
 http://51.159.104.29:8080/bobesponja/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/h2bTGxV/sport1lt.png" group-title="DEPORTES",LITHUANIA SPORT1HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c991c368916e42b4863434de3e1761f6:de737ed43aa92c98d4c89e32aa2408ce
+https://tr.live.cdn.cgates.lt/live/dash/560210/index.mpd
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/54/cc/c6/54ccc6489166a7b5deeca24728f98f67--movies-free-in-the-middle.jpg" group-title="24/7",MALCOM
 http://51.159.104.29:8080/malcom/index.m3u8
 
