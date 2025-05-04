@@ -425,6 +425,14 @@ https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="HBO FAMILY" tvg-logo="https://heroeip.github.io/logo/HboFamily_1.png" group-title="CINE", HBO FAMILY
 https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
 
+#EXTINF:-1 group-title="DEPORTES" tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-name="ESPN",ESPN 🇺🇸
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v2.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-id="ESPN.Deportes.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/espn-deportes.png" tvg-name="ESPN Deportes" ,ESPN Deportes
+http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/ADN-40-en-vivo-Online.png?zoom=3&resize=324%2C235&ssl=1" group-title="MEXICO", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
