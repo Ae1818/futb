@@ -686,7 +686,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e69f7cb969df2eef1b60ddea0458bfef:12ec40e04cf8c533cf306321052726a8 
-https://live4-ott.izzigo.tv/out/u/dash/DISTRITO-COMEDIA-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/4/out/u/dash/DISTRITO-COMEDIA-HD/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png" group-title="EL SALVADOR", TVO
 http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
@@ -698,7 +698,7 @@ http://168.227.22.18:1935/tvo/02085f/playlist.m3u8
 #EXTGRP:CANALES HOOTLASK
 #EXTVLCOPT:audio-track="es-ES"
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-shift="" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="CULTURA", Animal Planet 
-https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/ANIMAL-PLANET-HD/manifest.mpd
 
 #EXTINF:-1 group-title="CULTURA" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://i.imgur.com/NJxedr8.png", History Channel
 https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
@@ -731,7 +731,7 @@ https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8V
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e7b281c11f0ff1c3f7ed2d02d0879c1:d385b87ade4441d20c5caee2a8e41da7
-https://live4-ott.izzigo.tv/out/u/dash/BIT-ME-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/4/out/u/dash/BITME-ME-HD/manifest.mpd
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://i.imgur.com/ByQio1V.png",Nick JR 
 https://gtechtecnologia.com/telelatino/play/112.m3u8
@@ -747,16 +747,6 @@ http://45.5.117.182:8000/play/a0eq/index.m3u8
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/discovery-kids.png",Discovery Kids 
 http://45.189.148.24:8000/play/a002
-
-#EXTINF:0 type="stream" group-title="INFANTILES" logo="", FUNBOX
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="FireFox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=578f77c2e0fb7b31b1676b75b57fe922:6e5ee266b112e58a0e27e4384b03ed76 
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
 
 #EXTINF:-1 tvg-id="APlusGuate.gt" tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="CENTROAMERICA",A+ Guate 🇬🇹
 https://ch2-tva.duin.dev/hls/stream.m3u8
