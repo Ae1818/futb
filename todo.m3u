@@ -925,10 +925,10 @@ https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NFGNs5T/tudn.png" group-title="DEPORTES", TUDN 🇺🇸
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://xyzdddd.videohls.ru/lb/premium66/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NFGNs5T/tudn.png" group-title="DEPORTES", TUDN🇺🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8dd478d7a7eec7c4034554052fa0832:9550dfb6e48b301539de8ac99e921506
+https://cors-proxy.cooks.fyi/https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/TUDNH_HD_TVE_25039_0_7642147744339498163.mpd
 
 #EXTINF:-1 tvg-chno="902" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNVSN.png?raw=true" group-title="NOTICIAS", Univisión
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
