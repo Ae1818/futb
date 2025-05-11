@@ -995,8 +995,12 @@ https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i2.paste.pics/dad53a17aceb11d80b7ec90ec2398f2f.png" group-title="INFANTILES", Moni TV
 https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjT0QhKQ/espn-2.png" group-title="DEPORTES", ESPN 2 MX
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/wjT0QhKQ/espn-2.png", ESPN 2🇲🇽
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:4d7e33da19b971cef49e35eccdb9de0b
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/ESPN-2-HD/manifest.mpd
