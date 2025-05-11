@@ -452,7 +452,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=578f77c2e0fb7b31b1676b75b57fe922:6e5ee266b112e58a0e27e4384b03ed76 
-https://live2-ott.izzigo.tv/out/u/dash/CANAL-5-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/CANAL-5-HD/manifest.mpd
 
 #EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="" tvg-logo="https://logo.iptveditor.com/tudn.png" group-title="DEPORTES", TUDN 🇲🇽
 http://200.115.120.1:8000/play/ca039/index.m3u8
@@ -963,7 +963,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/o
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
-https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://iili.io/2UfbOcg.png" group-title="DEPORTES",Premier Football
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
