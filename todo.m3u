@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Actualizado 11/mayo/2025"
+#EXTM3U billed-msg="Actualizado 17/mayo/2025"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -668,9 +668,9 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginPacket15/smil:163_HD.smil/manifest
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5c9418c5729e8224f99940cf5b6c0c45:336cd7efd1d7a1829d0f3d22c2c8dc0a
-https://live5-ott.izzigo.tv/out/u/dash/TOONCAST-SD/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=d6f00381cc1a58668a11e2a3e0f20fd9:fc817d45af5dce33cbb79793224b834c
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(TOONCAST)/manifest.mpd
 
 #EXTINF:-1 group-title="NOTICIAS" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-24_m.png", A24
 https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
