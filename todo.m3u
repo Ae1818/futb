@@ -751,7 +751,14 @@ https://live-atv-cdn.izzigo.tv/4/out/u/dash/BITME-ME-HD/manifest.mpd
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(NICK_JR_HD)/manifest.mpd
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/disney-channel.png",Disney Channel
-https://is-tucuman.cdn.rcs.net.ar/mnp/disney/output.mpd
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=027e637afed7db11853ff1a19cc8e4db:608f91f05536f5a6c93e70cdd95aba5c 
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISNEY_HD)/manifest.mpd
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1024px-Nickelodeon_2023_logo_%28outline%29.svg.png",Nickelodeon 
 #EXTVLCOPT:network-caching=1000
@@ -769,9 +776,9 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 #EXTVLCOPT--http-reconnect=true
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=56b7aafe4e99fb4c1dca742a052b5c97:ff7c8f203d81edcf702c301caac299f9
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISNEY_JR)/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2a54fcc9e39ebb71a0a91b0b7e1946b9:0720f4901617bf3db3581d55110d7ef6 
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISNEYJR_HD)/manifest.mpd
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/discovery-kids.png",Discovery Kids 
 http://45.189.148.24:8000/play/a002
