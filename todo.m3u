@@ -743,7 +743,14 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/disney/output.mpd
 https://gtechtecnologia.com/telelatino/play/110.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/512px-Disney_Jr._2024.svg.png" group-title="INFANTILES" , Disney Junior 
-http://45.5.117.182:8000/play/a0eq/index.m3u8
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=56b7aafe4e99fb4c1dca742a052b5c97:ff7c8f203d81edcf702c301caac299f9
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(DISNEY_JR)/manifest.mpd
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/discovery-kids.png",Discovery Kids 
 http://45.189.148.24:8000/play/a002
