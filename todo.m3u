@@ -666,9 +666,6 @@ https://tv.webmedialive.com/salvavision/live/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
 http://cdn.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd
 
-#EXTINF:-1 group-title="CINE" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TV_Azteca_Cinema_logo.svg/320px-TV_Azteca_Cinema_logo.svg.png", AZTECA CINEMA
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginPacket15/smil:163_HD.smil/manifest.mpd
-
 #EXTINF:-1 group-title="INFANTILES" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://i.imgur.com/6UTSdAi.png", Tooncast
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
@@ -854,7 +851,7 @@ https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 #EXTGRP:CANALES HOOTLASK
 #EXTVLCOPT:audio-track="es-ES"
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-shift="" tvg-logo="https://hootlask.com/img/logo/ea.jpg" group-title="CINE",TLNOVELAS
-https://live5-ott.izzigo.tv/out/u/dash/TLNOVELAS-HD/default.mpd
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/TLNOVELAS/manifest.mpd
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png",Pasiones 
 http://45.228.233.93:8000/play/ca092/index.m3u8
@@ -866,7 +863,7 @@ http://45.228.233.93:8000/play/ca092/index.m3u8
 #EXTGRP:CANALES HOOTLASK
 #EXTVLCOPT:audio-track="es-ES"
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-shift="" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/GPLS.png?raw=true" group-title="CINE",GOLDEN
-https://live4-ott.izzigo.tv/out/u/dash/GOLDEN-MULTIPLEX/default.mpd
+https://live-atv-cdn.izzigo.tv/4/out/u/dash/GOLDEN-MULTIPLEX/manifest.mpd
 
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="NOTICIAS",Ecuavisa🇪🇨
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
@@ -1031,9 +1028,6 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/ADULT-SWIM-HD/manifest.mpd
 
 #EXTINF:-1 tvg-chno="413" tvg-id="" tvg-logo="https://www.canalcinemaplus.net/wp-content/uploads/2013/07/logo.png" group-title="CINE", Cinema+
 https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-chno="415" tvg-id="CineLatino.mx" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/CNELA.png?raw=true" group-title="CINE", Cine Latino
-http://45.228.233.93:8000/play/ca083/index.m3u8
 
 #EXTINF:-1 tvg-name="US: NBC Universo East" tvg-id="NBCUniversoEast.us" group-title="DEPORTES" tvg-logo="https://i.ibb.co.com/SBCm5M8/universo.png",NBC Universo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
