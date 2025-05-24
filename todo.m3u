@@ -669,11 +669,11 @@ https://tv.webmedialive.com/salvavision/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=73be9dd0138241bcaced7d4fb3f5a4b1:eebcb531a9deb6ab2de1a342c058afb8
 https://tr.live.cdn.cgates.lt/live/dash/560612/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=639e9249b63b731e7621953d27aa5393:ce09cb3f4bcad5c1febe10893b6ba491
-#EXTINF:-1 group-title="CINE" ch-number="312" tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://dl.dropbox.com/scl/fi/mpiciqqwxiy5z7u0opv9z/depelicula.jpg?rlkey=219iltoyf7si8dgco7g5vv6g7&dl=1", De película
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
-http://cdn.sensa.com.ar/live/eds/DePelicula/live_dash_cld/DePelicula.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DCxcBBw/DPel-cula-2021.png" group-title="CINE", DE PELÍCULA
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=208012d154bf5128dc04433c22e00698":"d17913671a71821ed7e4c4937cd2fba5
+https://aka-live1-ott.izzigo.tv/2/out/u/dash/DE-PELICULA-SD/default.mpd
 
 #EXTINF:-1 group-title="INFANTILES" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://i.imgur.com/6UTSdAi.png", Tooncast
 #EXTVLCOPT:network-caching=1000
