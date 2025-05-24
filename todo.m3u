@@ -790,6 +790,56 @@ http://45.189.148.24:8000/play/a002
 #KODIPROP:inputstream.adaptive.license_key=66ee81febe768875ae2fee5b8f512e15:54882694734874f280259fb8b6766ab3
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CINEMA_HD)/manifest.mpd
 
+#EXTINF:-1 group-title="CINE" tvg-logo="https://megatelevisiontv.live/img/history.png",UNIVERSAL COMEDY
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=9a778fbd54a4b2285cea8d44c514a2fd:d9befb259f2523d17dd5f7ae5ba2dd74
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_COMEDY_HD)/manifest.mpd
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://megatelevisiontv.live/img/history.png",UNIVERSAL CRIME
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=dd87aca2d338122cbd283bdd3a0f7502:2bd42314bdcf4028eeb25fcf61b7b6e3
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CRIME_HD)/manifest.mpd
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://megatelevisiontv.live/img/history.png",UNIVERSAL CHANNEL
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=96388f9c9cbc73d4256a97974f9a2aef:c2cd19c2e73c8b7d6c384ba745161444
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_CHANNEL_HD)/manifest.mpd
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://megatelevisiontv.live/img/history.png",UNIVERSAL PREMIER
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=d01c9488e528697a9cd8ebe35b067729:abb4d0aff05248ae5e53d3e8454671d6
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_PREMIER_HD)/manifest.mpd
+
+#EXTINF:-1 group-title="CINE" tvg-logo="https://megatelevisiontv.live/img/history.png",UNIVERSAL REALITY
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=aeced86dd6c5ecf4f39cd193109f39f7:afcb5b67f584f2eeb1783474644a9f8e
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(UNIVERSAL_REALITY_HD)/manifest.mpd
+
 #EXTINF:-1 tvg-id="APlusGuate.gt" tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="CENTROAMERICA",A+ Guate 🇬🇹
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
