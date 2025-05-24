@@ -669,10 +669,13 @@ https://tv.webmedialive.com/salvavision/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=73be9dd0138241bcaced7d4fb3f5a4b1:eebcb531a9deb6ab2de1a342c058afb8
 https://tr.live.cdn.cgates.lt/live/dash/560612/index.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DCxcBBw/DPel-cula-2021.png" group-title="CINE", DE PELÍCULA
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=208012d154bf5128dc04433c22e00698":"d17913671a71821ed7e4c4937cd2fba5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=208012d154bf5128dc04433c22e00698:d17913671a71821ed7e4c4937cd2fba5
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+#EXTGRP:CANALES HOOTLASK
+#EXTVLCOPT:audio-track="es-ES"
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-shift="" tvg-logo="https://i.ibb.co/DCxcBBw/DPel-cula-2021.png" group-title="CINE", De Pelicula
 https://aka-live1-ott.izzigo.tv/2/out/u/dash/DE-PELICULA-SD/default.mpd
 
 #EXTINF:-1 group-title="INFANTILES" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://i.imgur.com/6UTSdAi.png", Tooncast
