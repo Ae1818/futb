@@ -651,8 +651,12 @@ https://mx1.gt-app.com/78/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUr
 #EXTINF:-1  group-title="Lista 11", CLARO SPORTS
 https://mx1.gt-app.com/82/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
 
-#EXTINF:-1 tvg-id="Cartoonito.mx" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/148/627/png-transparent-america-television-television-channel-logo-america-tv-others-television-text-logo.png" group-title="CINE", AMERICA PERU
-https://live-evg25.tv360.bitel.com.pe/bitel/americatv/bitel/americatv_ori_source/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/44/CH_LOGO/160/160/0/0/15119500074230.png" group-title="CINE", TNT
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"dca8597f12f8d6928b55c1291c7bb300":"36c8b3f51d474b95f0adad70899343e1"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/TNTHD/default.mpd
 
 #EXTINF:-1 group-title="CINE" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png", family
 http://45.228.233.93:8000/play/ca082/index.m3u8
