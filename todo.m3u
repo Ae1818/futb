@@ -660,6 +660,11 @@ http://45.228.233.93:8000/play/ca082/index.m3u8
 #EXTINF:-1 group-title="RELIGIOSO" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png", SALVAVISION
 https://tv.webmedialive.com/salvavision/live/playlist.m3u8
 
+#EXTINF:-1 group-title="CINE" tvg-logo="https://i.imgur.com/z0uTcNt.png",MTV HITS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73be9dd0138241bcaced7d4fb3f5a4b1:eebcb531a9deb6ab2de1a342c058afb8
+https://tr.live.cdn.cgates.lt/live/dash/560612/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=639e9249b63b731e7621953d27aa5393:ce09cb3f4bcad5c1febe10893b6ba491
 #EXTINF:-1 group-title="CINE" ch-number="312" tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://dl.dropbox.com/scl/fi/mpiciqqwxiy5z7u0opv9z/depelicula.jpg?rlkey=219iltoyf7si8dgco7g5vv6g7&dl=1", De película
