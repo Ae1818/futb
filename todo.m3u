@@ -965,11 +965,10 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 #KODIPROP:inputstream.adaptive.license_key={"17c96fff5b3656e3973b2431d54740e3":"4ea5aa764f7806b1bc9d5d70dc30f953","d7929e94a9035f8eb174edcd585e33da":"843ae6087cb1c7897107ed477f12ad07","a5bcd9e88a9f56c198ffbdd1057a701d":"bdffe57e1abd9ce12c400da3b2e5d3ae"}
 https://tvup01.edge.milloh-cs.com/mega6/mega6.mpd
 
-#EXTINF:-1 tvg-id="DKISS" group-title="ESPAÑA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/DKISS",DKISS
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdgeVX/smil:25_HD.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="DKISS" group-title="INFANTILES" tvg-logo="https://i.imgur.com/ol3XPo3.png",BOING
-https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge/smil:17_HD.smil/manifest.mpd
+#EXTINF:-1 group-title="ESPAÑA",TVE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001112/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="INFANTILES",COCO TV
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
