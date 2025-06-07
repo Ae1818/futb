@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Actualizado 25/mayo/2025"
+#EXTM3U billed-msg="Actualizado 7/junio/2025"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -14,7 +14,8 @@ https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c6
 http://190.83.2.172:8080/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="EL SALVADOR",CANAL 4 SD
-http://45.167.3.81:45000/play/a03h/index.m3u8
+#EXTVLCOPT:http://clubtv.link/my0505/phpcode/android0.php?c=709&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate%20Player/1.0.7
+http://u.m3uts.xyz/stream/hls/914.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="EL SALVADOR",CANAL 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live/live-audio_0=64000-video=2000000.m3u8
