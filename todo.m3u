@@ -50,6 +50,13 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=7402
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Canal_10_%28El_Salvador%29_2019.svg/640px-Canal_10_%28El_Salvador%29_2019.svg.png" group-title="EL SALVADOR",CANAL 10 🇸🇻
 http://190.83.2.172:8080/play/a010/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="LIGAS EUROPEAS",Eliminatorias Concacaf
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="LIGAS EUROPEAS",Eliminatorias Concacaf (2)
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="LIGAS EUROPEAS",Eliminatorias Concacaf (3)
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="EL SALVADOR", 1 | WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
