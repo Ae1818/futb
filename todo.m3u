@@ -1267,9 +1267,6 @@ https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-chno="714" tvg-logo="https://www.inti.tv/wp-content/uploads/2019/08/LOGO-INTI-TV-HORIZONTAL-BLANCO.png" group-title="CULTURA", INTI
-https://5e2f36bc1c433.streamlock.net/inti/inti-network.stream/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-logo="https://i.ibb.co.com/pnyMJjF/natgeowild.png" group-title="USA", NATGEO WILD 🇺🇸
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
