@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Actualizado 7/junio/2025"
+#EXTM3U billed-msg="Actualizado 8/junio/2025"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -1182,6 +1182,9 @@ https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3d
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/73/07/15/20236861.jpg" group-title="PELICULAS", LA VIDA LOCA  (2008)
 https://archive.org/serve/la-vida-loca.-2008-christian-poveda-documental-canal-satripxvid-mp-3.-89m.por-bi/La%20vida%20loca.2008%20%28Christian%20Poveda%29%20%28Documental%20Canal%2B%29%20%5BSatrip%5D%5Bxvid-mp3%5D.89m.por%20bizzentte%20y%20documentalesatonline.blogspot.com.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tUae3mefrDVTgm5mRzqWnZK6fOP.jpg",Lilo & Stitch (2025)
+https://archive.org/download/l-ilo-stich-live-action-27052501/lIlo%20%26%20Stich-liveAction_27052501.ia.mp4
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/scoobydoobydoo/images/1/16/Alohacover.jpg/revision/latest/thumbnail/width/360/height/360?cb=20201013125814&path-prefix=es" group-title="PELICULAS",Scooby Doo Aloha (2005)
 https://archive.org/download/scooby-doo-aloha-el-misterio-de-la-isla-1080p-id-24615_202104/Scooby-Doo%21%20Aloha%2C%20El%20misterio%20de%20la%20isla%201080p%20id_24615.mp4
