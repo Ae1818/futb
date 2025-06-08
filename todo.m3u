@@ -388,13 +388,6 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-HD/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="🎵 MÚSICA", MTV 80s
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="LaOtra" group-title="ESPAÑA" ch-number="217" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/OTRA",LaOtra
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=208049ec2e5bf2e7a5d3e17bbdf2f16f:0dde11377f475bfc203c941e82136360
-https://ott.zapitv.com/live/eds_c2/la_otra/dash_live_enc/la_otra.mpd
-
 #EXTINF:-1 tvg-id="Canal de las estrellas" group-title="ESPAÑA" ch-number="144" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GALAV",Canal de las estrellas
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -970,9 +963,6 @@ http://143.44.136.110:6910/001/2/ch00000090990000001112/manifest.mpd?virtualDoma
 
 #EXTINF:-1 tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="INFANTILES",COCO TV
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
-
-#EXTINF:-1 tvg-id="DKISS" group-title="ESPAÑA" tvg-logo="https://i.imgur.com/3pDfFjp.png",GOL PLAY
-https://tvnoov.com/fadoo/golplayhd.m3u8
 
 #EXTINF:-1 tvg-id="Latina.pe", tvg-logo="https://i.imgur.com/TmQwVfw.png", group-title="NOTICIAS", Latina Peru
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina/.m3u8
