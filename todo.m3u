@@ -800,7 +800,14 @@ https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(
 https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISNEYJR_HD)/manifest.mpd
 
 #EXTINF:-1 group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/97starlight/TV/main/no-ed/discovery-kids.png",Discovery Kids 
-http://45.189.148.24:8000/play/a002
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=651f6dd6967f69266539faca5336fc79:cab01b81a1dc7772fef494e5f898b50c 
+https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(DISCOVERY_KIDS_HD)/manifest.mpd
 
 #EXTINF:-1 group-title="CINE" tvg-logo="https://megatelevisiontv.live/img/history.png",UNIVERSAL CINEMA
 #EXTVLCOPT:network-caching=1000
