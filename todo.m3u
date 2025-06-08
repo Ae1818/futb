@@ -151,13 +151,6 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/dub-nitro/live/clients/dash/enc/k0d
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"afI_Szn2bMUddC9-xrz3ow","k":"M77bLa0cRAKr-WCQ1OwLYw"}]}
 https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="rainews.tv.vodafone.pt" group-title="INFANTILES" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Rai-News-24.png",AZ SIETE
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"afI_Szn2bMUddC9-xrz3ow","k":"M77bLa0cRAKr-WCQ1OwLYw"}]}
-https://cdmx-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
-
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=df18f6a05bab28d89e5dc01d88f4deb8:baceb525467c0db22ba83090616c1ad0
@@ -1208,11 +1201,6 @@ http://fina.dyndns.tv/Peliculas/Toy%20story%201.mkv
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/9rpdhn7p7mDZW2rUXsINf9c6sR5.jpg",La Era de Hielo 2002
 "url": "http://fina.dyndns.tv/Peliculas/La%20Era%20de%20Hielo%201.mkv
-
-#EXTINF:-1 tvg-logo="https://canalcocina.es/themes/theme2015/images/main-logo.gif?6541be6d39052" group-title="CULTURA", CANAL COCINA 4K
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1622e41b898458f889c697b0de3d1f0:7ad1ffd9308b35d961a6dae3c596fa57
-https://cache1.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/cutout-1677429730/Finne.jpg",Buscando A Nemo
 https://archive.org/download/lokng-4-n-3m-0/Lokng%204%20N3m0.mp4
