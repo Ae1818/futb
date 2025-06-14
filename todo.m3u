@@ -108,6 +108,11 @@ https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDNHD/default.mpd
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="http://imgfz.com/i/SHrm6TF.png" group-title="NOTICIAS",HispanTV
 https://ott2.hdlatam.tv:443/live_abr/Stream67/live/stream67hd/chunks.m3u8
 
+#EXTINF:-1 tvg-name="conect" tvg-logo="https://i.postimg.cc/sDTYkQ3g/tudn.png", group-title="Mundial de Clubes - FIFA", Sportv 🇧🇷
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaea45512d137def15b209a089cafd14:8d42db746ed0c4df61729b0d68d42bd7
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/rkhugudynd/out/v1/f7763e695c3b469594ed89fa163ebf0c/cenc-sd.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/1600px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="NOTICIAS", CNN 
 http://208.86.19.13:81/20.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sport5_Logo.png/440px-Sport5_Logo.png" group-title="DEPORTES", SPORT5 🇮🇱
