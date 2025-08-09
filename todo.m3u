@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Actualizado 16/julio/2025"
+#EXTM3U billed-msg="Actualizado 09/agosto/2025"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -104,9 +104,6 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="conect" tvg-logo="https://i.postimg.cc/sDTYkQ3g/tudn.png", group-title="Mundial de Clubes - FIFA", Mundial Clubes (3)
 https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDNHD/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=c90a67ecf6b94d7083a214b9adc7ad4f:45c7042cbed34e601e52df2869b0ca2d
-
-#EXTINF:-1 tvg-name="conect" tvg-logo="https://i.postimg.cc/sDTYkQ3g/tudn.png", group-title="LIGAS EUROPEAS", Copa Oro
-https://fl3.moveonjoy.com/TUDN/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="HispanTV" tvg-logo="http://imgfz.com/i/SHrm6TF.png" group-title="NOTICIAS",HispanTV
 https://ott2.hdlatam.tv:443/live_abr/Stream67/live/stream67hd/chunks.m3u8
@@ -309,10 +306,7 @@ https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mpd/TV5Monde.mpd
 https://cors-proxy.cooks.fyi/https://cdn-ec-chi-351.linear-tve-abrn-pil.top.comcast.net/TUDNH_HD_TVE_25039_0_7642147744339498163.mpd
 
 #EXTINF:-1 tvg-logo="https://www.fifaratings.com/wp-content/uploads/Saudi-Professional-League.png" group-title="LIGAS EUROPEAS",LIGA ARABE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+https://fl3.moveonjoy.com/TUDN/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="daznlaliga2" tvg-logo="https://www.fifaratings.com/wp-content/uploads/Saudi-Professional-League.png" group-title="LIGAS EUROPEAS", LIGA ARABE (2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
