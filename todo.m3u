@@ -924,6 +924,11 @@ https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
 #EXTINF:-1 group-title="CULTURA" tvg-logo="https://www.pngkit.com/png/full/166-1669896_yellow-rectangle-png-colorfulness.png",NatGeo 
 https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
+#EXTINF:-1 tvg-id="ITV1.uk" tvg-logo="https://i.ibb.co/q7frGQz/fs3-mx.png" group-title="CULTURA", NATGEO WILD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90e2e491c850a49a5ab21bb6fa6b4d24:fa65220c9f76e424173899df533a6d10
+https://ottb.live.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/s818vishap/out/v1/7a63dfa162b443ceb195075092adbb21/cenc.mpd
+
 #EXTINF:-1 group-title="CINE" tvg-id="Canal.Sony.(México).mx" tvg-logo="https://i.imgur.com/lyvKcFK.png",Sony Channel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
