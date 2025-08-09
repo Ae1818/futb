@@ -1236,6 +1236,13 @@ https://kusnadipepenk.github.io/ntn/animal.m3u8
 #EXTINF:-1,  tvg-name="DISCOVERYCH"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" group-title="CULTURA",DISCOVERY CHANNEL
 http://go.iptvhn.net:25461/live/7682/7682/13176.ts
 
+#EXTINF:-1 tvg-id="Canal.Space.(México).sv" tvg-logo="https://i.imgur.com/hgCWY6V.png" group-title="CULTURA",Space
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02849e7ba3c2e527a9a8152ff111fc22:87af284b8fc6be1cbf693f20175671a9
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/SPACE-HD/default.mpd
+
 #EXTINF:-1 tvg-logo="https://iili.io/JmK1H3Q.png" group-title="NOTICIAS",Milenio Televisión
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
