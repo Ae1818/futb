@@ -676,7 +676,7 @@ https://tv.webmedialive.com/salvavision/live/playlist.m3u8
 #EXTGRP:CANALES HOOTLASK
 #EXTVLCOPT:audio-track="es-ES"
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="" tvg-shift="" tvg-logo="https://i.ibb.co/DCxcBBw/DPel-cula-2021.png" group-title="CINE", De Pelicula
-https://aka-live1-ott.izzigo.tv/2/out/u/dash/DE-PELICULA-SD/default.mpd
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/DE-PELICULA-SD/manifest.mpd
 
 #EXTINF:-1 group-title="INFANTILES" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://i.imgur.com/6UTSdAi.png", Tooncast
 #EXTVLCOPT:network-caching=1000
