@@ -663,16 +663,8 @@ https://mx1.gt-app.com/82/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/TNTHD/default.mpd
 
-#EXTINF:-1 group-title="CINE" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png", family
-http://45.228.233.93:8000/play/ca082/index.m3u8
-
 #EXTINF:-1 group-title="RELIGIOSO" tvg-id="sicnhd.tv.vodafone.pt" tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png", SALVAVISION
 https://tv.webmedialive.com/salvavision/live/playlist.m3u8
-
-#EXTINF:-1 group-title="CINE" tvg-logo="https://i.imgur.com/z0uTcNt.png",MTV HITS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=73be9dd0138241bcaced7d4fb3f5a4b1:eebcb531a9deb6ab2de1a342c058afb8
-https://tr.live.cdn.cgates.lt/live/dash/560612/index.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
