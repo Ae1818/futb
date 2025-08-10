@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Actualizado 09/agosto/2025"
+#EXTM3U billed-msg="Actualizado 10/agosto/2025"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -893,6 +893,13 @@ rtmp://s.emisoras.tv/static/diostevetv
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ivaiATd.png" group-title="INFANTILES" tvg-id="", Dios Te Ve Kids
 rtmp://s.emisoras.tv/static/diostevekids
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.pinimg.com/236x/aa/fc/d6/aafcd6d54dfeded3f8f5305503fc008e.jpg", BS INDO 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b203316c47c370a1eb9097c070d7226:676e6783f23789cdf4ff0486386145ed
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/gigxsk0lya/out/v1/df75d887bce4437b8fdf345ae455113b/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fb8vC9Z.png" group-title="CENTROAMERICA" tvg-id="", TN23 🇬🇹
 https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/index.m3u8
