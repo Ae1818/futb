@@ -886,6 +886,10 @@ https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="CENTROAMERICA" tvg-logo="https://i.imgur.com/0LWxQ0O.png" tvg-id="",canal 7 🇬🇹
 https://alba-gt-chapintv-c7.stream.mediatiquestream.com/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPHTzrrC/HCH.png" group-title="CENTROAMERICA",HCH TV 🇭🇳
+https://dvrfl03.bozztv.com/hondu-hchtv/index.m3u8
+
 #EXTINF:-1 tvg-id="repretel.6.cr" tvg-name="CR | Repretel 6 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png" group-title="CENTROAMERICA", Repretel 6 🇨🇷
 https://d1vr8yxz55pucr.cloudfront.net/live2/alba-cr-repretel-c6_480p/chunks.m3u8
 
