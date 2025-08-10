@@ -223,8 +223,13 @@ https://ott.udptv.xyz/stream/udptvus/espn2/master.m3u8?u=cocked&p=dd0abb52723d22
 
 
 #EXTINF:-1 tvg-id="" group-title="LIGAS EUROPEAS" group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/340px-Bundesliga_logo_%282017%29.svg.png" tvg-logo="https://companieslogo.com/img/orig/VPLAY-B.ST-873a39a0.png",BUNDESLIGA (2)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a
+#KODIPROP:inputstream.adaptive.license_key=bb43112b7b72e9c287da0ecdec8606a7:29e3d2678107f0ab0b35b6537c734f2a 
 https://a.00/1/out/u/dash/ESPN-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://claplivehdplay.ru/
