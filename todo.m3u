@@ -400,12 +400,8 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-HD/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="🎵 MÚSICA", MTV 80s
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal de las estrellas" group-title="ESPAÑA" ch-number="144" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GALAV",Canal de las estrellas
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=940a71d465f34a76d17f66bb84ecd749:309d63d8795189c775b45771c3d4a414
-https://ott.zapitv.com/live/eds_c2/CANAL_DE_LAS_ESTRELLAS/dash_live_enc/CANAL_DE_LAS_ESTRELLAS.mpd
+#EXTINF:-1 tvg-id="Canal de las estrellas" group-title="ESPAÑA" ch-number="144" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GALAV",LA 2
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/681px-MTV_90s_2022.svg.png" group-title="🎵 MÚSICA", MTV 90s
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80saunz-samsungnz/playlist.m3u8
@@ -987,9 +983,7 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 https://tvup01.edge.milloh-cs.com/mega6/mega6.mpd
 
 #EXTINF:-1 group-title="ESPAÑA",TVE
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001112/manifest.mpd?virtualDomain=001.live_hls.zte.com
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
 
 #EXTINF:-1 tvg-id="COCOTV.do" tvg-logo="https://i.imgur.com/CnAc7jU.png" group-title="INFANTILES",COCO TV
 https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
