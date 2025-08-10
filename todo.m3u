@@ -400,7 +400,7 @@ https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-HD/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/MTV_80s_%282020%29.png" group-title="🎵 MÚSICA", MTV 80s
 https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal de las estrellas" group-title="ESPAÑA" ch-number="144" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/GALAV",LA 2
+#EXTINF:-1 tvg-id="Canal de las estrellas" group-title="ESPAÑA" ch-number="144" tvg-logo="https://i.ibb.co/ynZKkfg4/La2.png",LA 2
 https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/681px-MTV_90s_2022.svg.png" group-title="🎵 MÚSICA", MTV 90s
