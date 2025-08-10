@@ -219,7 +219,7 @@ http://51.159.104.29:8080/pepapig/index.m3u8
 https://fast-channels.atresmedia.com/648ef5882bfab0e4627e0d61/648ef5882bfab0e4627e0d61.m3u8
 
 #EXTINF:-1 tvg-id="610dtv.ar", tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/340px-Bundesliga_logo_%282017%29.svg.png" group-title="LIGAS EUROPEAS", BUNDESLIGA
-http://45.228.233.93:8000/play/ca032/index.m3u8
+https://ott.udptv.xyz/stream/udptvus/espn2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3f02ddb8f11b597c84a5393348e047bb:bc52ff5ddb471c7691ffb57ae74726cc
