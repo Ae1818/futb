@@ -282,10 +282,10 @@ https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/300px-Serie_A_logo_2022.svg.png" group-title="LIGAS EUROPEAS", SERIE A (4)
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+https://wahyu1ptv.pages.dev/Tring2-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Serie_A_logo_2022.svg/300px-Serie_A_logo_2022.svg.png" group-title="LIGAS EUROPEAS", SERIE A (3)
-http://tv.streams.baikal-telecom.net:8080/MatchFutbol1/mpegts
+https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
 
 
 #EXTINF:-1 tvg-id="Champions TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" group-title="LIGAS EUROPEAS",PREMIER LEAGUE (4)
