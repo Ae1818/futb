@@ -242,11 +242,6 @@ https://mag04.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/32
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/5/42/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football-world-cup-blue-text-trademark-thumbnail.png" group-title="LIGAS EUROPEAS", COPA DEL REY (2)
 https://live-zlr1.tv360.bitel.com.pe:443/bitel/americatv/bitel/americatv_ori_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/350px-LaLiga_TV_Hypermotion_2023_Logo.svg.png", tvg-id="ksport1hd" group-title="LIGAS EUROPEAS",LaLiga TV Hypermotion
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" group-title="LIGAS EUROPEAS",PREMIER LEAGUE (2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
@@ -344,8 +339,8 @@ https://live12-dash.cdns.cdn.orangetv.orange.es/RueE_1yWXSyuomYWfrAQWA/168509816
 
 #EXTINF:-1 group-title="LIGAS EUROPEAS" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2ViMzUzZjctZTIxNi00M2MxLWJkMmYtYzcyNzU2ZWU4Y2QzXkEyXkFqcGdeQXVyNDg4MjkzNDk@._V1_FMjpg_UX1000_.jpg" ,CHAMPIONS LEAGUE (3)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b832a8f0326fbdc02e:ade0533ba667bb7e9847d8f215f03076
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-u1/u1-dash-widevine.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=3cfa8625f650406ebf6a4d1ea737f572:0534e747c70b364aa7210e1bf3191df0
+https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw266117884_-1972819316/PLTV/86/224/3221241560/3221241560.mpd?accountinfo=~~V2.0~OhA1DF4svOZppKxb-t-Ngw144cce44121c63284a33d5453493e5c8~1_Fmlu5PevHMYnEi9Z_HX2goKAd0VHSuxZMoIcAXcawYvG1meqGp2eQ2Ibhjvh7e59e7f6df3d57f23a32024ad67f0f19dc:UTC,
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/5/42/png-transparent-2018-fifa-world-cup-qualification-conmebol-copa-libertadores-2018-world-cup-football-world-cup-blue-text-trademark-thumbnail.png" group-title="LIGAS EUROPEAS",COPA DEL REY
 https://v3.thetvapp.to/hls/espn-deportes/tracks-v2a1/mono.m3u8
