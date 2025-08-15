@@ -377,7 +377,9 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 #EXTINF:-1 tvg-id="LIGAS EUROPEAS" group-title="LIGAS EUROPEAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png ",PREMIER LEAGUE (6)
-http://202.62.56.28:8080/nl.m3u8?id=1061
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9df2aa9c4974ed3bbf0730defad68fe:0cac792b5d5ef9ffb24e324a52c3da0b
+http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubPremier1/output/manifest.mpd
 
 #EXTINF:-1 group-title="LIGAS EUROPEAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/560px-Premier_League_Logo.svg.png" ,PREMIER LEAGUE (7)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
