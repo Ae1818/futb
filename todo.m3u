@@ -299,7 +299,7 @@ https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ligue1_Uber_Eats_logo.png/300px-Ligue1_Uber_Eats_logo.png" group-title="LIGAS EUROPEAS",LIGUE 1
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
 
 #EXTINF:-1 group-title="LIGAS EUROPEAS" tvg-logo="https://w7.pngwing.com/pngs/573/795/png-transparent-france-tv5monde-television-channel-streaming-media-france-television-blue-text.png", LIGUE 1 (2)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1074,9 +1074,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDoma
 https://live-atv-cdn.izzigo.tv/2/out/u/dash/SKYSPORTS-16-HD/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/175px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGAS EUROPEAS", LIGA ESPAÑOLA (6)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=74481194bf32774e0cb44a1d71d6cc19:4bfd25bc9419f1c71e3ee8e6bf5ccf2a
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/290/290.mpd
+https://wahyu1ptv.pages.dev/DaznLaliga1-HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="CINE", AXN
 https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
