@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U billed-msg="Actualizado 22/agosto/2025"
+#EXTM3U billed-msg="Actualizado 23/agosto/2025"
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/argentina.xml, https://dukun.masuk.id/epg/gatotv.com.epg.xml"
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Canal_2_TCS.png" group-title="EL SALVADOR", 2 | CANAL 2
@@ -1040,7 +1040,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fab09a8749b1a00077d35
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6202ab549654c800076ee13f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-chno="415" tvg-id="GoldenEdgePanregional.mx" tvg-logo="https://www.foxdeportes.com/assets/images/logo/FoxDeportes.png" group-title="DEPORTES", Fox Deportes
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63d0269d60bc8f000890facc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=web&deviceMake=github.com/inspirationlinks&deviceDNT=1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://dokko1new.newkso.ru/dokko1/premium643/mono.m3u8
 
 #EXTINF:-1 tvg-id="DAZN 1" group-title="DEPORTES" ch-number="70" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/M1SD",DAZN 1
 #KODIPROP:inputstream=inputstream.adaptive
