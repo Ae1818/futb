@@ -15,7 +15,7 @@ http://190.83.2.172:8080/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Canal_4_TCS.png" group-title="EL SALVADOR",CANAL 4 SD
 #EXTVLCOPT:http://clubtv.link/my0505/phpcode/android0.php?c=709&token=Tecnoplus11&f=.m3u8|User-Agent=Ultimate%20Player/1.0.7
-https://wispy-mouse-2aad.support-a2f.workers.dev/http://tmp-sv5.teleon.live:8080/play/a011/index.m3u8
+http://tmp-sv5.teleon.live:8080/play/a011/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Canal_6_TCS.png" group-title="EL SALVADOR",CANAL 6
 https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live/live-audio_0=64000-video=2000000.m3u8
