@@ -1246,7 +1246,7 @@ https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://kusnadipepenk.github.io/ntn/animal.m3u8
 
 #EXTINF:-1,  tvg-name="DISCOVERYCH"  tvg-logo="https://cablego.com.pe/cache/logos/DISCOVERYCHANNEL.png" group-title="CULTURA",DISCOVERY CHANNEL
-http://go.iptvhn.net:25461/live/7682/7682/13176.ts
+http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal.Space.(México).sv" tvg-logo="https://i.imgur.com/hgCWY6V.png" group-title="CULTURA",Space
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
